@@ -39,5 +39,7 @@ I'm not sure if im friends with CSS :sweat_smile:. Maybe its just the way we hav
 
 Also thought it was a good idea to start using git bash and vscode to complete this journal and make commits so that by the time I start SoC bootcamp, I know my way around a little bit :smile:.
 
+UPDATE: Man I had a little drama with GIT Bash just now. Had to have a little refresher on how to use it. Glad I decided to start having a bash (no pun intended) with it before monday! Through my searching I also realised VS code has GIT built in too (I think). Will try that next.
+
 ### Link(s) to work / Resources: ###
 FreeCodeCamp [(New) Responsive Web Design](https://www.freecodecamp.org/learn/2022/responsive-web-design/) course
