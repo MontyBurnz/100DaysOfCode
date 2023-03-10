@@ -30,7 +30,7 @@ Note to self: LEARN JAVASCRIPT!
 ## Day 3 ##
 9th March 2023
 ### Today's Progress: ###
-* Resumed 'Responsive Web Design' course at freecodecamp 
+* Resumed 'Responsive Web Design' course at freecodecamp. 
 * Started to get familiar with variables in CSS by building a city skyline image.
 * Cloned the repo for this journal using Git Bash & started updating it with VS code instead of completing it all on the website.
 
@@ -43,3 +43,13 @@ UPDATE: Man I had a little drama with GIT Bash just now. Had to have a little re
 
 ### Link(s) to work / Resources: ###
 FreeCodeCamp [(New) Responsive Web Design](https://www.freecodecamp.org/learn/2022/responsive-web-design/) course
+
+## Day 4 ##
+10th March 2023
+### Today's Progress: ###
+* Continued with the CSS variables project on FreeCodeCamp.
+* Watched coding related video's on youtube to see other peoples experiences & what they'd do differently.
+
+### Thoughts: ###
+Super busy day today but just managed to get 1hr of CSS & additional 30-45 minutes worth of youtube videos in (its now 11:15pm). I'm now almost 2/3rd's of the way through the 'Responsive Web Design' course & can't wait to get onto the javascript course after this one. Watching other people's experiences and the things they'd do differently is definitely a big help!
+
