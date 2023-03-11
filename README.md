@@ -53,3 +53,19 @@ FreeCodeCamp [(New) Responsive Web Design](https://www.freecodecamp.org/learn/20
 ### Thoughts: ###
 Super busy day today but just managed to get 1hr of CSS & additional 30-45 minutes worth of youtube videos in (its now 11:15pm). I'm now almost 2/3rd's of the way through the 'Responsive Web Design' course & can't wait to get onto the javascript course after this one. Watching other people's experiences and the things they'd do differently is definitely a big help!
 
+## Day 5 ##
+11th March 2023
+### Today's Progress: ###
+* Completed CSS skyline project on FCC
+
+### Thoughts: ###
+Another busy day today but I managed to complete the CSS project on FCC. It did get a little complex at times but I'm amazed at how it turned out. There was a moment when I had to delete the 'border:' property and when it dissapeared and the whole picture came together it was beautiful :astonished:! I did start to get frustrated at one of the variables not working properly but after some time and the odd swear word I realised I'd missed a ',' from one of the lines. I'm starting to develop an eye for detail thats for sure!
+
+### Link(s) to work / Resources: ###
+[My FreeCodeCamp Profile](https://www.freecodecamp.org/shamalamm)
+
+
+
+
+
+
