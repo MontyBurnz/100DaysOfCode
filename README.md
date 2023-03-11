@@ -59,7 +59,7 @@ Super busy day today but just managed to get 1hr of CSS & additional 30-45 minut
 * Completed CSS skyline project on FCC
 
 ### Thoughts: ###
-Another busy day today but I managed to complete the CSS project on FCC. It did get a little complex at times but I'm amazed at how it turned out. There was a moment when I had to delete the 'border:' property and when it dissapeared and the whole picture came together it was beautiful :astonished:! I did start to get frustrated at one of the variables not working properly but after some time and the odd swear word I realised I'd missed a ',' from one of the lines. I'm starting to develop an eye for detail thats for sure!
+Another busy day today but I managed to complete the CSS project on FCC. It did get a little complex at times but I'm amazed at how it turned out. There was a moment when I had to delete the `border:` property and when it dissapeared and the whole picture came together it was beautiful :astonished:! I did start to get frustrated at one of the variables not working properly but after some time and the odd swear word I realised I'd missed a `,` from one of the lines. I'm starting to develop an eye for detail thats for sure!
 
 ### Link(s) to work / Resources: ###
 [My FreeCodeCamp Profile](https://www.freecodecamp.org/shamalamm)
