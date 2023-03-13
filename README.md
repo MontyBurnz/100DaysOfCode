@@ -64,6 +64,23 @@ Another busy day today but I managed to complete the CSS project on FCC. It did 
 ### Link(s) to work / Resources: ###
 [My FreeCodeCamp Profile](https://www.freecodecamp.org/shamalamm)
 
+## Day 5 ##
+11th March 2023
+### Today's Progress: ###
+* Started taking a look into JS and watching videos on peoples experiences learning it from scratch.
+* Took a look at the curiculum for SoC (Starts tomorrow!)
+
+### Thoughts: ###
+This looks like its going to be a lot more difficult than html & css! :sweat_smile: I decided to take a little look into it as my SoC journey starts tomorrow and I've not reached the JS course on FCC yet. I did watch some videos on youtube to get guidance form others that have studied it and to learn from what they would do differently. I unfortunately had to cut the day short due to a severe migraine and I decided to have an early night for the big day tomorrow.
+
+
+
+
+
+
+
+
+
 
 
 
