@@ -64,14 +64,36 @@ Another busy day today but I managed to complete the CSS project on FCC. It did 
 ### Link(s) to work / Resources: ###
 [My FreeCodeCamp Profile](https://www.freecodecamp.org/shamalamm)
 
-## Day 5 ##
-11th March 2023
+## Day 6 ##
+12th March 2023
 ### Today's Progress: ###
 * Started taking a look into JS and watching videos on peoples experiences learning it from scratch.
 * Took a look at the curiculum for SoC (Starts tomorrow!)
 
 ### Thoughts: ###
 This looks like its going to be a lot more difficult than html & css! :sweat_smile: I decided to take a little look into it as my SoC journey starts tomorrow and I've not reached the JS course on FCC yet. I did watch some videos on youtube to get guidance form others that have studied it and to learn from what they would do differently. I unfortunately had to cut the day short due to a severe migraine and I decided to have an early night for the big day tomorrow.
+
+## Day 7 ##
+13th March 2023
+### Today's Progress: ###
+
+* Started my SoC Bootcamp journey!!
+* Continued with more JS for beginners.
+* Downloaded and used 'Live Server' extension with VS code to preview code real time.
+
+### Thoughts: ###
+Today was the first day of my bootcamp jounrey and the first time in a very long time in a full-time study environment. I really enjoyed the first day but it did get a little taxing on the brain past early afternoon. Im definitely ready for a good sleep :laughing:. I also watched and followed along with another JS intro/tutorial on youtube. One thing I have noticed though is I prefer the FCC style of learning much more than following along on youtube. 
+
+I've also just noticed its the end of my first week on this challenge! I might have to take it a little easier for a few days while I get adjusted to the bootcamp and organise my other daily acitivities better. I will definitely try to keep things much more project & building focused from now on. Will also try to get as much FCC work done as I can and upload those projects to github too. Roll on another week of the challenge!
+
+### Link(s) to work / Resources: ###
+[JS beginners tutorial](https://www.youtube.com/watch?v=W6NZfCO5SIk)
+
+
+
+
+
+
 
 
 
