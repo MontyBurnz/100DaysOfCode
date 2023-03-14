@@ -89,6 +89,24 @@ I've also just noticed its the end of my first week on this challenge! I might h
 ### Link(s) to work / Resources: ###
 [JS beginners tutorial](https://www.youtube.com/watch?v=W6NZfCO5SIk)
 
+## Day 8 ##
+14th March 2023
+### Today's Progress: ###
+* Today we were split into a group of 3 and got to do plenty of work together. We'd previously learned about the importance of pair programming and it was really starting to show now. Each of us had slightly different abilities and combined together I think it went really well!
+* We built upon yesterdays knowledge of problem solving and incorporated computational thinking (Decomposition, Abstraction, Pattern Recognition & Algorithm) and then we got to use this knowledge in our teams to complete various tasks.
+* We also completed a grid puzzle (similar to boggle) and were tasked with creating a process that would help solve similar future puzzles using pattern recognition. This got us all working together really hard and showed us the importance of understanding a problem and creating simple steps to solve it (pseudocode).
+* I also started JS basics on FCC as we start covering JS in the bootcamp tomorrow and I wanted a little prep.
+
+### Thoughts: ###
+Another really good day at the bootcamp & I'm realising the importance of teamwork for sure! Something Chris said really resonated with us after the challenges. It was a quote that he said was often attributed to Einstein > “If I were given one hour to save the planet, I would spend 59 minutes defining the problem and one minute resolving it.” Once we started on the puzzle task this became painfully apparent. It took us much longer to understand the problem than it did to actually solve it! All the pieces of the problem solving puzzle have started to come together now and I feel I know how to work much more effectively after just 2 days of bootcamp. 
+
+After SoC I tried my hand at a little JS on FCC as I much prefer learning this way. I have started to see similiarities between JS and CSS which Is a good thing! I wanted to get a little bit of knowledge as we start covering JS tomorrow in the bootcamp. Its been a super long day so thats it from me! Logging off at 10pm :sleepy:
+
+
+
+
+
+
 
 
 
