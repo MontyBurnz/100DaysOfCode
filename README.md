@@ -102,6 +102,30 @@ Another really good day at the bootcamp & I'm realising the importance of teamwo
 
 After SoC I tried my hand at a little JS on FCC as I much prefer learning this way. I have started to see similiarities between JS and CSS which Is a good thing! I wanted to get a little bit of knowledge as we start covering JS tomorrow in the bootcamp. Its been a super long day so thats it from me! Logging off at 10pm :sleepy:
 
+## Day 9 ##
+15th March 2023
+### Today's Progress: ###
+* Today we started learning JS with Chris & covered:
+
+  - Programming basics / 5 pillars of programming (data types, variables, conditions, functions, and loops)
+  - Data types in JS 
+  
+* I got to play around with the console on chrome a bit more to practice JS live.
+* We built a password checker programme for a webpage that reveals hidden secret data. The password is input via a `prompt` and 3 attempts are given.
+
+### Thoughts: ###
+Another intense day of learning but we managed to get the ball rolling in our trio quite quickly. We do need to learn to read instruction properly first as we were so eager to get the work done we didn't realise the workshop for the password checker came with a guide. We ended up making one from scratch using what we had learned throughout the day. It wasnt the same but it worked and we were proud we did it without outside help!
+
+
+
+
+
+
+
+
+
+
+
 
 
 
