@@ -135,6 +135,46 @@ Another intense day of learning but we managed to get the ball rolling in our tr
   ### Thoughts: ###
   I really enjoyed the morning session about giving and recieving feedback and it reminded me why the School of Code is so much more than just a standard coding course. We got a lot more time working on objects & arrays in the workshop and I'm started to get used to working together in a small team. This evening a few of us planned a little revision session on zoom but we ended up just chatting away for a while. It was fun though! 😆
   
+  ## Day 11 ##
+17th March 2023
+### Today's Progress: ###
+* Today was our first SoC hackathon! We had to build a Rock, Paper, Scissors game.
+* This was a full days task and we had to link in everything we'd learned in the last couple of days!
+* We learned about one of the inbuilt objects in JS and used it to generate a random number `Math.random()`
+
+### Thoughts: ###
+We decided to break down all of the steps required to build the game (just like Chris taught us) and then got to it. We found it quite difficult to begin with but once we started it started to flow much better. There was a few points in the day where we were stuck and had to ask for help but what else could we expect after learning JS for 2 days?
+
+ ## Day 12 ##
+18th March 2023
+### Today's Progress: ###
+* Today I continued with the JS course on FCC
+* I also recapped some of the work we did last week on the bootcamp
+
+### Thoughts: ###
+FCC is really helping me cement what I've learned during the week so I'm starting to get a little more confident. I went over some of the workshop's we were working on just to see how I would go about things if I had to do them again. It's been an intense week so im taking it a little easier over the weekend and thats fine :rofl:.
+
+ ## Day 13 ##
+19th March 2023
+### Today's Progress: ###
+* Still working away at the FCC JS course
+* learned more about accessing/modifying Objects in JS
+* I also wrote up a few days worth of journal entries today for this challenge as I've had barely any time since thursday.
+
+### Thoughts: ###
+I need to get much more efficent with time management as im starting to realise just how much time and effort its going to take to make the most out of this bootcamp! I've managed to catch up on the last 3 days worth of journal entries but I need to upload pictures of my work still. All in all, its been a pretty productive week thats for sure!
+
+
+
+
+
+
+
+
+
+
+
+  
   
   
 
