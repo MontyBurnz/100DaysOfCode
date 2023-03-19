@@ -116,6 +116,30 @@ After SoC I tried my hand at a little JS on FCC as I much prefer learning this w
 ### Thoughts: ###
 Another intense day of learning but we managed to get the ball rolling in our trio quite quickly. We do need to learn to read instruction properly first as we were so eager to get the work done we didn't realise the workshop for the password checker came with a guide. We ended up making one from scratch using what we had learned throughout the day. It wasnt the same but it worked and we were proud we did it without outside help!
 
+## Day 10 ##
+16th March 2023
+### Today's Progress: ###
+* This morning we learned about the importance of feedback with Joseph Holden. We covered many aspects of what it takes to make successful teams and the importance of productive feedback. 
+
+* After the morning session it was back to JS and today we covered objects and arrays. My key learning points from the day were:
+  - In JavaScript, an object is a collection of key-value pairs, where the keys are strings and the values can be any JavaScript data type.
+  - Objects (even if they're empty) are not the same.
+  - Properties in JavaScript objects can be accessed using dot notation (e.g. `obj.propertyName`) or bracket notation (e.g. `obj['propertyName']`).
+  - Objects and arrays in JavaScript are mutable, meaning that you can add, delete, or modify properties after the object has been created.
+  - Object property names can be any string, including spaces, special characters, and reserved keywords, but it is generally recommended to use camelCase for readability.
+  - An array in JavaScript is a collection of values (list), which can be of any data type, including other arrays.
+  - Arrays in JavaScript are zero-indexed, meaning that the first element of an array has an index of 0, the second element has an index of 1, and so on.
+  - Arrays have a length property, which indicates the number of elements in the array.
+  - Elements in an array can be accessed using bracket notation (e.g. `myArray[0]`) or with methods like pop(), push(), shift(), and unshift()
+  
+  ### Thoughts: ###
+  I really enjoyed the morning session about giving and recieving feedback and it reminded me why the School of Code is so much more than just a standard coding course. We got a lot more time working on objects & arrays in the workshop and I'm started to get used to working together in a small team. This evening a few of us planned a little revision session on zoom but we ended up just chatting away for a while. It was fun though! 😆
+  
+  
+  
+
+
+
 
 
 
