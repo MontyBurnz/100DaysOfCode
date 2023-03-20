@@ -164,6 +164,39 @@ FCC is really helping me cement what I've learned during the week so I'm startin
 ### Thoughts: ###
 I need to get much more efficent with time management as im starting to realise just how much time and effort its going to take to make the most out of this bootcamp! I've managed to catch up on the last 3 days worth of journal entries but I need to upload pictures of my work still. All in all, its been a pretty productive week thats for sure!
 
+## Day 14 ##
+20th March 2023
+### Today's Progress: ###
+* This morning we had our first team feedback session with our programming partners
+* We introduced ourselves to our new teams
+* Had an introduction to CodeWars and in our teams tried to solve some basic kyu 8 problems.
+
+* We then went onto learn about the DOM & worked on our repo's solo. My key learning points were;
+  - JavaScript can be used to manipulate the DOM, allowing developers to dynamically create, modify, and delete HTML elements and their attributes, styles, and content
+  - The DOM tree consists of a hierarchy of nodes, which represent different parts of the document, including elements, text nodes, and attributes.
+  - How to create & select elements eg. `document.querySelector` & `document.createElement`.
+  - Assigning variables to elements and adding text 
+  - Appending children to parent elements 
+  
+  ### Thoughts: ###
+  I found the feedback session great this morning and it genuinely felt like we were all here to help each other! Gonna miss the old trio but we must move on. I felt like I was a little slower today after the weekend and there was definitely a lot to take in. My new team were great & both keeping me on my toes with their speed. I also had my first mentor meeting today and it was nice speaking to someone who'd already been through the same experience. Zaid (my mentor) gave me a challenge tot ake forward into next week and i'm looking forward to completing it.
+  
+  ### Link(s) to work / Resources: ###
+  
+  Selecting elements, assigning variables & modyifying style
+  
+  ![Selecting elements, assigning variables & modyifying style](https://user-images.githubusercontent.com/94766229/226475401-a54ba9df-e256-4e4d-9aeb-4dd1691ca64a.png)
+  
+  Using a for loop to loop through an existing array and adding missing items to the list of tips.
+  
+  ![image](https://user-images.githubusercontent.com/94766229/226476576-35133af3-10bd-45f1-baf3-1305495e316f.png)
+
+
+  
+  
+  
+
+
 
 
 
