@@ -190,6 +190,39 @@ I need to get much more efficent with time management as im starting to realise 
   Using a for loop to loop through an existing array and adding missing items to the list of tips.
   
   ![image](https://user-images.githubusercontent.com/94766229/226476576-35133af3-10bd-45f1-baf3-1305495e316f.png)
+  
+  
+  ## Day 15 ##
+21st March 2023
+### Today's Progress: ###
+* Completed some more CodeWars tasks in our team e.g creating a function to output the opposite number of the input (1 becomes -1).
+* Had a super interesting talk with a former SoC alumni 
+* Started learning about and using event listeners for buttons, clicks, data inputs etc.
+* Then the rest of the day we were tasked with using Ai (ChatGPT & Git Co-Pilot) to create code and make it work. My key learning points were;
+  - Breaking down the steps not only helps us but makes the code created by the Ai so much better!
+  - learned various new methods and properties eg. `getElementById` & `.innerHtml`
+  - I also learned about a JS function that can be used directly in html called `onclick`
+  - Always go through Ai code to make sure everything is right & that you fully understand it to help debug future problems.
+  
+  ### Thoughts: ###
+  It was so good to hear from the former bootcamper and her experiences both in the camp and in the real world as a developer. She talked about 'Imposter Syndrome' and that she still (even as a developer) sometimes uses google to recall how to use certain code. This was just what the DR ordered as a lot of us were starting to think we needed to learn all of this straight away :sweat_smile:. I also found the AI afternoon workshop super cool as we got to use tools to help us code much more efficiently and also to understand how the code was being used. We created a rock paper scissors game and chatGPT only needed 17 lines of JS which was remarkable considering how many lines we all used in last weeks hackathon :rofl:.
+  
+  ### Link(s) to work / Resources: ###
+  
+  AI assisted code for basic RPS game
+  
+  ![image](https://user-images.githubusercontent.com/94766229/226721207-b3fdbfb5-6a24-45da-a469-9eb5a6538ef3.png)
+  
+  Corresponding HTML file
+  
+  ![image](https://user-images.githubusercontent.com/94766229/226721646-740f0c68-fada-4493-9b46-2634921b68b8.png)
+
+
+  
+  
+  
+  
+
 
 
   
