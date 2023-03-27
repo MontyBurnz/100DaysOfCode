@@ -288,6 +288,35 @@ A screengrab of the dad jokes site.
 
 
 
+## Day 19 ##
+25th March 2023
+### Today's Progress: ###
+
+* Today (on a **saturday**) I decided to complete the recap tasks we were given by the SoC.
+* The task included bits of everything we'd learned in the week including;
+  - Asynchronous functions and `for` loops
+  - Objects and arrays
+  - `setInterval` & `clearInterval` method
+  - API's, `Fetch` & JSON files.
+  - Creating and appending to a list using JS
+
+### Thoughts: ###
+We were given the option of either completing these tasks between 9-11am on a monday (late start) or completing them over the weekend. All im saying is i spent a lot more than 2 hours! 😢 5 hours in I was wondering what was wrong with a piece of my code. After all that time, I realised I hadnt called the function and wanted to cry. Maybe it was my brain in a fasted state? (Ramadan) At least I know im never making that mistake again 😆
+
+### Link(s) to work / Resources: ###
+
+The (evil) function I forgot to call.
+
+![image](https://user-images.githubusercontent.com/94766229/228024179-def1c81f-7a87-4f71-acea-b01e4666c775.png)
+
+
+
+
+
+
+
+
+
 
 
 
