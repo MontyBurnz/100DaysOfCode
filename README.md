@@ -216,6 +216,40 @@ I need to get much more efficent with time management as im starting to realise 
   Corresponding HTML file
   
   ![image](https://user-images.githubusercontent.com/94766229/226721646-740f0c68-fada-4493-9b46-2634921b68b8.png)
+  
+## Day 16 ##
+21st March 2023
+### Today's Progress: ###
+
+* Today we started to learn about synchronous & asynchronous functions. My key learning points were;
+
+  Synchronous functions:
+
+  - Execute code in a blocking manner, meaning that they wait for a task to complete before moving on to the next one.
+  - Can cause the user interface to freeze if they take too long to execute.
+  - Are easier to reason about because they execute code in a predictable order.
+  - Are traditionally used for simple tasks that don't require much time to complete.
+  
+  Asynchronous functions:
+
+  - Execute code in a non-blocking manner, meaning that they don't wait for a task to complete before moving on to the next one.
+  - Can run in the background while other code executes, which keeps the user interface responsive.
+  - Use callbacks, promises, or async/await syntax to handle the results of the asynchronous task.
+  - Are traditionally used for tasks that involve network requests, file I/O, or other time-consuming operations.
+  
+  * We also learned about the `setTimeout` & `setInterval` methods and incorporated them within our functions.
+  * In the afternoon we covered API's and how to use the `fetch` method to access data from them and how to parse data from a JSON file.
+  * We then had a bash with async functions and fetching data from API's. We also covered the 3 states of a promise (resolved, pending & rejected).
+  
+### Thoughts: ###
+It was interesting to learn how a webpage escapes the usual top down order with an async function and things are starting to come together in my head. Still finding it a little hard to cope with the volume of new info but the more I practice the easier it gets! 
+
+### Link(s) to work / Resources: ###
+
+
+
+
+  
 
 
   
