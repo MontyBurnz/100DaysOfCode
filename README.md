@@ -278,7 +278,9 @@ I really enjoyed both the guest speakers today! This is definitely what makes So
 * We also had to present our page and code to the rest of the group at the end of the day.
 
 ### Thoughts: ###
-This was a really enjoyable task and we got to implement everything we learned so far. Everything from planning, html, css, JS and even presentation skills were tested to the limit! We had a great plan and with some more time I think the site could have been brilliant 😄 We added as much humour as we could and and emergency stop button that popped up with an alert which said 'calling mum' once clicked 😆. the CSS during the last few hours of the day was the most frustrating part and it's made me realise I need to get better at it. All in all, what a wonderful week! Gonna miss working with the team, they helped me out a lot for sure.
+This was a really enjoyable task and we got to implement everything we learned so far. Everything from planning, HTML, CSS, JS and even presentation skills were tested to the limit! We had a great plan and with some more time I think the site could have been brilliant 😄. We added as much humour as we could and and emergency stop button that popped up with an alert which said 'calling mum' once clicked 😆. The CSS during the last few hours of the day was the most frustrating part and it's made me realise I need to get better at it. 
+
+All in all, what a wonderful week! Gonna miss working with the team, they helped me out a lot for sure.
 
 A screengrab of the dad jokes site.
 
