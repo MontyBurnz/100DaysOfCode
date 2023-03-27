@@ -246,6 +246,15 @@ It was interesting to learn how a webpage escapes the usual top down order with 
 
 ### Link(s) to work / Resources: ###
 
+A clock we made using the set interval timer.
+
+
+![image](https://user-images.githubusercontent.com/94766229/228014813-bcb8ee3a-6717-4a6d-a133-f729acb21479.png)
+
+Some JS to control the seconds hand.
+
+![image](https://user-images.githubusercontent.com/94766229/228015108-885ac988-199b-4ab7-be04-13251c694b52.png)
+
 
 
 
