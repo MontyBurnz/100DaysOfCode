@@ -218,7 +218,7 @@ I need to get much more efficent with time management as im starting to realise 
   ![image](https://user-images.githubusercontent.com/94766229/226721646-740f0c68-fada-4493-9b46-2634921b68b8.png)
   
 ## Day 16 ##
-21st March 2023
+22nd March 2023
 ### Today's Progress: ###
 
 * Today we started to learn about synchronous & asynchronous functions. My key learning points were;
@@ -254,6 +254,40 @@ A clock we made using the set interval timer.
 Some JS to control the seconds hand.
 
 ![image](https://user-images.githubusercontent.com/94766229/228015108-885ac988-199b-4ab7-be04-13251c694b52.png)
+
+
+## Day 17 ##
+23rd March 2023
+### Today's Progress: ###
+
+* This morning we had another mindset session and covered 'Cognitive Diversity' and the Myers-Briggs model. This was a super interesting morning and we covered different ways that we could use to help understand each other and different ways of thinking.
+* We also had another guest speaker come in who was a UI/UX pro (Pavaan) and he taught us about his line of work and the tools we will go on to use when dealing with UI/UX.
+* In the afternoon our team got paired with another team and the 6 of us were given a research topic. This task was all about research and presentation. We broke our topic down and researched key points and came together to present it all in a 4 minute video. 
+
+### Thoughts: ###
+I really enjoyed both the guest speakers today! This is definitely what makes SoC such a great bootcamp. The research and presentation task at the end was super fun but a little nerve wracking for me too as im not the best at public speaking. It all went down well and aside from a little screenshare related issue, im super happy with how it turned out!
+
+## Day 18 ##
+24th March 2023
+### Today's Progress: ###
+
+**Friday Hackathon day!!**
+
+* Today we bought together everything we learned this week about async functions & API's and made our first webpage.
+* Our team chose to make a page that generates dad jokes and then lists the previous joke history.
+* We also had to present our page and code to the rest of the group at the end of the day.
+
+### Thoughts: ###
+This was a really enjoyable task and we got to implement everything we learned so far. Everything from planning, html, css, JS and even presentation skills were tested to the limit! We had a great plan and with some more time I think the site could have been brilliant 😄 We added as much humour as we could and and emergency stop button that popped up with an alert which said 'calling mum' once clicked 😆. the CSS during the last few hours of the day was the most frustrating part and it's made me realise I need to get better at it. All in all, what a wonderful week! Gonna miss working with the team, they helped me out a lot for sure.
+
+A screengrab of the dad jokes site.
+
+![image](https://user-images.githubusercontent.com/94766229/228020983-999ac951-785e-4b12-abc4-6ee08ac19126.png)
+
+
+
+
+
 
 
 
