@@ -310,6 +310,66 @@ The (evil) function I forgot to call.
 ![image](https://user-images.githubusercontent.com/94766229/228024179-def1c81f-7a87-4f71-acea-b01e4666c775.png)
 
 
+## Day 20 ##
+27th March 2023
+### Today's Progress: ###
+
+* Guest Speaker (alumni) of SoC talking about his role as an SRE.
+* New teams and feedback for the previous weeks team.
+* Learned abouit Agile methodology and its principles vs the old 'Waterfall' method. Some of my key learning points were;
+  - Customer collaboration over contract negotiation
+  - Individuals and interaction over process and tools
+  - Responding to change over following a structured plan
+  - Prototyping/working solutions over comprehensive documentation
+  
+  * In the afternoon we started to take a look at UI/UX and the differences between them. UI is about the look and feel of a product, while UX is about how the product     works and how it makes the user feel.
+  * After the course I had a little bash at making a simple to-do list as it was a task i was given by my SoC mentor. 
+  
+### Thoughts: ###
+As we've moved onto a new topic (UI/UX) there wasn't much coding done today and it was mainly classroom based but with regular team discussions. My brain needed a     little rest and it gave me time to catch up on a basic to-do list (mentor project) and some other things I was working on. 
+  
+### Link(s) to work / Resources: ### 
+  
+12 principles of agile.
+  
+![image](https://user-images.githubusercontent.com/94766229/228366531-742f0fb2-efdb-408b-9cfd-ce7d818f7e66.png)
+
+4 values of agile.
+
+![image](https://user-images.githubusercontent.com/94766229/228366837-7b81688e-2911-42af-bf00-bdd97acf9629.png)
+
+
+## Day 21 ##
+28th March 2023
+### Today's Progress: ###
+
+* Today we started off with a team codewars session and I got to have a bash at `str.split("")`, `str.reverse()` & `str.join("")`. I learned that `("")` after the `str.split` method splits the string into seperate letters and puts them into an array.
+* We then went back to UI/UX for the rest of the day and covered;
+  - The five stages of the design process. Emphatise, Define, Ideate, Prototype and Test.
+  - Paper protoyping 
+  - Disney's creator strategy (The dreamer, The realist & The critic)
+  - User centred design (Technically feasible, Economically viable & Desirable for the user)
+* We got to cover all of the above in great detail within our teams as we had to plan, design and test an idea for a bootcamp application process.
+
+### Thoughts: ###
+Today's focus was on planning and design, which offered a refreshing change from the intensive coding sessions we've had for the past two weeks. This highlights why School of Code stands out from the typical bootcamp experience. By starting from the very beginning, we gained valuable experience in project design, and it all came together when we began to design our application process. I learned that despite our assumptions of being similar to the end-user, it's easy to overlook basic elements that would otherwise seem obvious. This is where early-stage feedback and testing play a crucial role.
+
+### Link(s) to work / Resources: ### 
+
+The five stages of design.
+
+![image](https://user-images.githubusercontent.com/94766229/228370467-0559a3c4-d07b-47bb-b64a-d03d74742c85.png)
+
+
+
+
+
+
+  
+  
+  
+  
+
 
 
 
