@@ -360,6 +360,103 @@ The five stages of design.
 
 ![image](https://user-images.githubusercontent.com/94766229/228370467-0559a3c4-d07b-47bb-b64a-d03d74742c85.png)
 
+## Day 22 ##
+29th March 2023
+### Today's Progress: ###
+
+* We continued with UI/UX and were tasked with creating a bootcamp of our own choosing.
+* We had to think about all the reasons we wanted to join SoC and our thought process and our feelings/emotions throguhout the application.
+* We decided to chose a crypto education focused bootcamp.
+* We broke everything down, created user stories & personas and came up with ideas as a dreamer, realist and critic.
+* Also had a little bash at paper prototyping again.
+
+### Thoughts: ###
+
+Another day of trying to bring out my more creative side, what could possibly go wrong? :rofl: Jokes aside, I really enjoyed today and learning about how my teamates felt throughout their application process. We had a little bash at each others scratch games (:shushing_face: dont tell anyone) and discussed the various feelings/emotions we went through throughout the application process. Overall it was good to learn how to map out a full suer journey using our own journeys to emphatise with our target audience. 
+
+
+## Day 23 ##
+30th March 2023
+### Today's Progress: ###
+
+* This morning we covered different aspects of UI such as Visual vs Human 
+* We also got to experiment with various tools and website such as;
+  - Coolors
+  - Adobe Colour Picker
+  - Canva Photo Color Matcher
+  - Lighthouse
+  - Invision Free Hand
+  - Figma 
+  * We used lighthouse to check various websites and compare their performance and discussed how to improve perforance such as accesibility.
+  * I also got to learn more about CSS variables, why/when we should use them,  & CSS specficity.
+  * Today was also mindset day and we discussed positional behaviour & the various types of listener and how to improve our listening skills.
+  * We also had some guest speakers in for a talk about UI/UX roles and how to get into that type of work.
+  
+### Thoughts: ###
+  
+Aside from learning about lots of different tools including lighthouse (which I found super interesing), I reallyyyyyy enjoyed the talk with the guys from Nester! It was so nice to have Alex & Javaid talk about their experiences in the field and how to stand out and get jobs. 
+
+### Link(s) to work / Resources: ###
+
+Coolor's
+
+![Coolor Pallete](https://user-images.githubusercontent.com/94766229/230788437-e5b3bbc4-d623-49b6-b284-6e8533ebe810.png)
+
+Lighthouse 
+
+![image](https://user-images.githubusercontent.com/94766229/230788647-0285eb59-f55e-47a5-9088-b5257f05c296.png)
+
+## Day 24 ##
+31st March 2023
+### Today's Progress: ###
+
+* Hackathon friday!!!
+* Today we used everything we learned in the week to create our bootcamp
+* We had to create the HTML and CSS as well as all the planning stages and prototyping
+* Key objectives completed;
+  - Created a plan of action & flow diagram
+  - Created user persona and story
+  - Created figma prototype
+  - Attempted to put it all together into a working site
+  - Used various tools such as coolors & lighthouse through the building of the site.
+  - Presentation on our work
+  
+### Thoughts: ###
+  
+Wow! Super busy day today So many different tools to try and experiment with and so little time. We got off to a pretty good start with the planning and user journey side of things and moved onto the figma prototype. We had a few differences in the design initially but we gelled together and gave it 100% after a vote. We went straight for the high fidelity designs and tried to use the code from figma in our css file. This is where the trouble began :smiling_face_with_tear:. We ran into problems due to screen sizing (one team mate had a super wide screen) and we got stuck trying to make the css look even remotely similar to our HiFi design. The problem was that the code being exported from figma was using px and not percentages but we managed to correct most of it in the end. 
+
+We ended the day with presentations and im getting so much better at them! Some of the teams made some super proffesional looking pages, its crazy how fast were moving!
+
+
+### Link(s) to work / Resources: ###
+
+Hifi Figma
+
+![image](https://user-images.githubusercontent.com/94766229/230789323-60af19b0-793b-4097-9616-b2edebda3aca.png)
+
+Persona
+
+![image](https://user-images.githubusercontent.com/94766229/230789390-ace34606-35e8-4ed3-bbf9-711e1c71556d.png)
+
+
+
+ 
+
+  
+  
+
+
+
+
+  
+  
+  
+  
+
+
+
+
+
 
 
 
