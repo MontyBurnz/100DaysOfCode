@@ -439,6 +439,32 @@ Persona
 ![image](https://user-images.githubusercontent.com/94766229/230789390-ace34606-35e8-4ed3-bbf9-711e1c71556d.png)
 
 
+## Day 25 ##
+3rd April 2023
+### Today's Progress: ###
+#### Testing Week ####
+
+* Today started of with feedback for the Previous weeks teams and the joining of new teams.
+* We had guest speakers in from talis talking about testing .
+* We started learning about and using node.js which is a runtime environment for JS.
+* We also learned about splitting JS into smaller seperate files.
+* Learned how to install and run unit test's with Jest.
+
+### Thoughts: ###
+More new tools and programmes to get my head around :sweat_smile:. The talk with Nadeem from talis was absolutely brilliant! Such a knowledgable person and taught us a lot about qualities we should have as developers alongside the importance of testing software. A lot of new things to learn today but it went really well! I've come to the conclusion that I dont need to know everything 100% and as long as I can confidentally use the doc's and resources to be able to do what I need to, I'm on the right track :smile:.
+
+### Link(s) to work / Resources: ###
+
+
+
+
+
+
+
+
+
+
+
 
  
 
