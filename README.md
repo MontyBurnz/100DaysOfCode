@@ -453,7 +453,123 @@ Persona
 ### Thoughts: ###
 More new tools and programmes to get my head around :sweat_smile:. The talk with Nadeem from talis was absolutely brilliant! Such a knowledgable person and taught us a lot about qualities we should have as developers alongside the importance of testing software. A lot of new things to learn today but it went really well! I've come to the conclusion that I dont need to know everything 100% and as long as I can confidentally use the doc's and resources to be able to do what I need to, I'm on the right track :smile:.
 
+
+## Day 25 ##
+4th April 2023
+### Today's Progress: ###
+
+* Started of this morning with another codewars session
+* Learned more about the types of testing e.g. Unit testing & Integration testing
+* Created test.js files and made skeleton tests
+* Completed testing classroom workshops for the rest of the day
+
+### Thoughts: ###
+Although all of this is new to me, I feel slightly more confident with this as its new to everyone! When learning JS it's been clear that many off the cohort are already very experienced in it and although I try not to compare myself to them it can get hard sometimes. Now that we're all pretty much on the same boat, I can see it's not just me who finds it harder initially :sweat_smile:.
+
 ### Link(s) to work / Resources: ###
+
+Testing
+
+![image](https://user-images.githubusercontent.com/94766229/230911416-7913a606-564c-4e1a-97b5-007f3e8518b4.png)
+
+
+## Day 26 ##
+5th April 2023
+### Today's Progress: ###
+
+* Today we spent the day covering playwright and we covered;
+  - Basics of integration testing
+  - Introduction to playwright
+  - Playwright documentation for installation
+  - Playwright documentation on writing and running tests.
+  - Built in locators & their retry-ability
+  * I also had my mentor meeting in the evening.
+
+
+### Thoughts: ###
+Things were starting to get a little muddled up today having just covered Jest yesterday and now having slightly different syntax for Playwright but we managed pretty well. Im starting to get faster at navigating the docs and finding out all the information I need to quite quickly. I also had my mentor meeting today and aside from our general chatter we went over my To-do list app together and highlighted areas for improvment. 
+
+### Link(s) to work / Resources: ###
+
+Playwright Testing
+
+![image](https://user-images.githubusercontent.com/94766229/230915318-ff00f675-dae0-4a63-977c-a66821ed6325.png)
+
+
+## Day 27 ##
+6th April 2023
+### Today's Progress: ###
+
+* Early morning Codewars
+* Thursdays mindset talk about our inner critic vs inner champion (brilliant as usual)
+* Presentation in small teams about our favourite topic so far (2.5 minutes)
+* We also had guest speakers in from Linkedin talking about how to create our profiles and stand out
+* Hackathon!! We had to do a short early hackathon due to the long weekend (Bank Holiday).
+
+### Thoughts: ###
+Super interesting talks today as usual with both Jo and the guys from Linkedin. I really need to make a profile and start making connections as I now realise how useful it is. If only I had a half decent picture :rofl:. The hackathon and codewars went really well today. We we're one team member down and the two of us are on pretty similar levels when it comes to coding so we worked really well together and tried to break things down and understand them. There was a lot to fit in today due to the long weekend and we've been given recap tasks over the weekend to make up for time off.
+
+### Link(s) to work / Resources: ###
+
+Hackathon testing
+
+![image](https://user-images.githubusercontent.com/94766229/230917735-8d9caa98-bd45-4bde-bb10-19b4660f3071.png)
+
+
+Mindset Presentation activity.
+
+![image](https://user-images.githubusercontent.com/94766229/230917849-de627a18-a375-45a0-b723-772edf714e27.png)
+
+
+## Day 28 ##
+8th April 2023
+### Today's Progress: ###
+
+* Completed some recap tasks from SoC.
+* Made a simple kata (codewars) and wrote the test functions for it using Jest.
+* Did some more catching up on Playwright.
+* Brief introduction to React
+
+### Thoughts: ###
+I completely forgot how to make some steps while trying to install Jest and make the tests work and it got a little frustrating. I spoke to a fellow student and realised a lot of us were having the same issue but it was finally resolved. I made my simple kata and all the tests for it and carried on with the recap tasks. The weather is really good this weekend and i've been indoors for far too long so im taking some time to relax and step away from the keyboard too!
+
+### Link(s) to work / Resources: ###
+
+[React JS 30 minute tutorial](https://www.youtube.com/watch?v=hQAHSlTtcmY&t=632s)
+
+Simple Kata
+
+![image](https://user-images.githubusercontent.com/94766229/230919340-883c3e51-06eb-4aed-8538-53913232c092.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
