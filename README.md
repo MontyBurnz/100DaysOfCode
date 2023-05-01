@@ -645,6 +645,44 @@ Actual app
 
 ![Screenshot 2023-05-01 191343](https://user-images.githubusercontent.com/94766229/235504108-c770fa71-f29e-4918-965f-e1e0faef290b.png)
 
+## Day 31 ##
+17th April 2023
+### Today's Progress: ###
+* We started off the morning with the usual pair feedback and codewars
+* Today we had a guest speaker in from Bravissimo talking about UX 
+* WE continued with react and covered;
+  - Smart (stateful) Vs Dumb (stateless) components
+  - Component trees and how to create them
+  - Pure functions: a pure function is a function that always returns the same output given the same input, and doesn't modify any variables outside its own scope.
+  - Side effects in react: In React, a side effect refers to any change that a component makes to its environment outside of rendering. This can include things like modifying the DOM, making HTTP requests, setting timeouts or intervals, or interacting with external APIs. While side effects are sometimes necessary for a component to function properly, they can also introduce bugs and make the code harder to understand and maintain.
+  - `useEffect`: In React, useEffect is a hook that lets you perform side effects like data fetching or DOM updates after a component renders, but only when certain conditions are met. This can be a simpler way to manage side effects in your code, without needing to use complex class components or fiddly lifecycle methods.
+
+### Thoughts: ###
+Can't go wrong with more react to wash down the previous weeks overwhelming amount :rofl:. Everyone on the bootcamp seems to be struggling at least a little so I dont feel too bad.
+
+### Link(s) to work / Resources: ###
+
+ Component tree
+ 
+![Screenshot 2023-04-17 133946](https://user-images.githubusercontent.com/94766229/235509199-246e289d-725b-4537-9f49-62548b64b45a.png)
+
+useEffect
+
+![Screenshot 2023-04-17 152246](https://user-images.githubusercontent.com/94766229/235509276-86b8da45-df69-40ec-99e3-0d1725f0d0b0.png)
+
+## Day 32 ##
+18th April 2023
+### Today's Progress: ###
+
+
+
+
+
+
+
+
+
+
 
 
 
