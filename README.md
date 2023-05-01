@@ -541,10 +541,109 @@ Simple Kata
 
 ![image](https://user-images.githubusercontent.com/94766229/230919340-883c3e51-06eb-4aed-8538-53913232c092.png)
 
+## Day 28 ##
+11th April 2023
+### Today's Progress: ###
+
+* Today we started learning about React JS. My key learning points were; 
+  - React JS is a library used for building user interfaces (UIs) for websites
+  - It is based on the idea of breaking down UIs into small, reusable components
+  - React uses a virtual DOM to optimize performance by only updating the parts of the UI that have changed
+  - Can be used for server-side rendering, which improves website speed and search engine optimization (SEO)
+  - React is declarative, which means developers describe what they want to happen and React handles the underlying updates
+  - Has a large and active community, with many resources available to help developers learn and use it
+  - Used by many large companies, such as Facebook, Netflix, Airbnb, and Instagram
+  - Class components Vs functional componenets (old vs new style)
+  
+* We also covered JSX which is a extension for JavaScript that allows you to write HTML-like code in your JavaScript files to create UI components in React. Under the hood, JSX is transformed into regular JavaScript code before it's executed in the browser.
+
+### Thoughts: ###
+I was super excited to start learning about react as I heard it made life as a developer so much easier! I've wanted to make my own websites as a side project too so I couldn't wait! I quickly realised the learnign curve is going to be steep with this one. I can see it does make things so much easier but i can foresee many evenings and weekends are going to get spent trying to get my head around it all :sweat_smile:.
+
+### Link(s) to work / Resources: ###
+
+![Screenshot 2023-04-11 105053](https://user-images.githubusercontent.com/94766229/235490108-8319b19d-6310-44b8-bda3-b3d61481ebeb.png)
+
+## Day 29 ##
+12th April 2023
+### Today's Progress: ###
+
+* Started off the morning with codewars
+* Researched what the `reduce()` function is in javascript - It is used to take an array of values and "reduce" it down to a single value, by performing a specified operation on each item in the array. This can be useful for performing calculations, filtering or transforming data, or otherwise manipulating arrays of data used in your code.
+* We started learning about `useState` In React, the useState hook is a built-in function that allows you to add state to functional components. It returns an array with two elements: the current state value, and a function to update that value. You can use this hook to define and update state variables that determine what's displayed in the UI of your React application. Whenever a state value changes, React automatically re-renders the component to reflect the new state.
+
+* We then went on to learn more about Hooks in React. My key learning points were;
+
+  - Created In 2018
+  - Hooks are a way to use state and other React features in functional components.
+  - Commonly used hooks are useState, useEffect, useContext, and useRef.
+  - Hooks can only be used in functional components, not class components.
+  - Hooks are composable and can be combined to create more complex functionality.
+  - They can improve code readability and reusability.
+  - Need to be imported into components e.g. `import { useState } from "react";`
+  
+  ### Thoughts: ###
+  I think I may keep my thoughts to myself whilst learning react :upside_down_face:.
+  
+  ### Link(s) to work / Resources: ###
+  
+  Creating squat counter in react.
+  
+![Screenshot 2023-04-12 133442](https://user-images.githubusercontent.com/94766229/235493201-c6d29a8c-4de2-4544-bb83-d9fc4c99980e.png)
+
+Component tree.
+
+![Screenshot 2023-04-12 140332](https://user-images.githubusercontent.com/94766229/235493335-66966aad-67c9-4705-9cc1-2e61502fbd01.png)
+
+## Day 29 ##
+13th April 2023
+### Today's Progress: ###
+* Mindset day with Joe about team decision making
+* We had to talk about designing a car buying app in our new teams and what features it would have.
+* The main part of the tasks was team work and decision making and we learned about different ways to vote including;
+  - Dot voting
+  - Roman Voting
+  - Brain trust 
+  
+* We then went back to learning React in the afternoon and we covered;
+  - Immutability - In React, immutability means not directly changing the state or props of a component, but instead creating new copies of them when making updates.
+  - The spread operator `[...]` - 
+  - `.map` & `.filter`
+  
+### Thoughts: ###
+It was nice to have Joe come back in to break up what has been an absolutely jam packed week! We had monday off due to bank holiday so trying to learn React in such  a short space of time has been proving difficult for sure. The lack of calories and sleep from fasting (Ramadan) doesnt help :sweat_smile:. Gonna keep on practicing and I know with time it'll all come together.
+
+### Link(s) to work / Resources: ###
+
+Using the Spread operator and adding data to an array.
+![Screenshot 2023-04-13 122135](https://user-images.githubusercontent.com/94766229/235501535-8ce5cf3f-6537-499e-a982-17db44a2115c.png)
 
 
+![Screenshot 2023-04-13 134951](https://user-images.githubusercontent.com/94766229/235502152-0e13cd5b-2710-432b-b0f9-74988f6ba244.png)
 
+## Day 30 ##
+14th April 2023
+### Today's Progress: ###
 
+Hackathon friday!!!
+
+* Today we had to build a To-Do List app using the react we learned during the week.
+* We used figma to create a high fidelity wireframe 
+* We attempted to style it with css but didnt have much time left by the end of the day.
+* We also had to present it at the end of the day in true SoC style.
+
+### Thoughts: ###
+It was a super hard challenege considering we only started reacted on Tuesday but with a lot of documentation and the use of additonal resources we managed to pull it off! Very pleased with how it turned out.
+
+### Link(s) to work / Resources: ###
+
+As you can see we went with a school whiteboard style app.
+
+![To Do List - Hackathon 14_04_23](https://user-images.githubusercontent.com/94766229/235503627-77f1d196-fcef-45b3-9c25-7a1eb73cebb3.png)
+
+Actual app
+
+![Screenshot 2023-05-01 191343](https://user-images.githubusercontent.com/94766229/235504108-c770fa71-f29e-4918-965f-e1e0faef290b.png)
 
 
 
