@@ -746,7 +746,10 @@ The similarities in react testing library and the previous javascript testing we
 21st April 2023
 ### Today's Progress: ###
 
-Hackathon day!!!
+So today was supposed to be Hackathon day but it's Eid so im off!
+
+# Eid Mubarak!!!!! :partying_face: #
+## WOOOOPPP WOOOPPPPPPPPP!!! ##
   
   
   
