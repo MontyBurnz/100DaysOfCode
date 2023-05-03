@@ -674,6 +674,31 @@ useEffect
 18th April 2023
 ### Today's Progress: ###
 
+* Started off the day with Codewars and learned about the `concat()` method from one of my team mates. It takes 2 arrays and merges them together and outputs it as a single     array. 
+* Learned more about Hooks in react `useReducer`: UseReducer is a tool that helps you manage complex state in your app. It works by taking in a function that describes how     the state should change when certain actions are taken. e.g. if you have a counter in your app, you could use `useReducer` to update the count based on whether the user       clicks an "increment" or "decrement" button. Instead of having multiple `usestate hooks to manage all the different parts of the state, you can use `useReducer` to handle     it all in one place.
+* We also went over switch & case statements and then used them in conjuction with `useReducer`.
+
+### Thoughts: ###
+I love picking up little tips and tricks when playing codewars! There was a time when I hated the thought of going on codewars but with each attempt I pick up something new and the next time it's easier :smile:. It was also nice to be able to link in switch statements to react as I'd already learnt about them from freeCodeCamp and one of my previous team mates.
+
+### Link(s) to work / Resources: ###
+
+Switch statement
+
+![Screenshot 2023-04-18 102855](https://user-images.githubusercontent.com/94766229/236041978-861c7ae8-6d45-4d4d-95d4-f9bee5ac0385.png)
+
+`UseReducer`
+
+![Screenshot 2023-04-18 114406](https://user-images.githubusercontent.com/94766229/236042093-e43b96ca-bd9a-46cb-b53d-77ff8480cce0.png)
+
+Combined
+
+![Screenshot 2023-04-18 135112](https://user-images.githubusercontent.com/94766229/236042518-00af60d3-fc58-4c3e-8181-0cbf1f7237b2.png)
+
+
+
+
+
 
 
 
