@@ -683,17 +683,83 @@ I love picking up little tips and tricks when playing codewars! There was a time
 
 ### Link(s) to work / Resources: ###
 
-Switch statement
+Switch statement.
 
 ![Screenshot 2023-04-18 102855](https://user-images.githubusercontent.com/94766229/236041978-861c7ae8-6d45-4d4d-95d4-f9bee5ac0385.png)
 
-`UseReducer`
+`UseReducer`.
 
 ![Screenshot 2023-04-18 114406](https://user-images.githubusercontent.com/94766229/236042093-e43b96ca-bd9a-46cb-b53d-77ff8480cce0.png)
 
-Combined
+Combined.
 
 ![Screenshot 2023-04-18 135112](https://user-images.githubusercontent.com/94766229/236042518-00af60d3-fc58-4c3e-8181-0cbf1f7237b2.png)
+
+## Day 33 ##
+19th April 2023
+### Today's Progress: ###
+
+* Today we went over Git branching & merging in more detail as next week is project week and well need it!
+* React testing library. React Testing Library is a tool that helps you test your React components by allowing you to render them in a test environment   and interact with     them in a way that mimics user behavior. We read through the documentation and learned how to setup and run the tests.
+* It was Liz's last day today!! :smiling_face_with_tear:
+
+### Thoughts: ###
+The similarities in react testing library and the previous javascript testing we did made it a little easier to get to grips with. Im finding it much easier to navigate documentation and learn to extract and use what I need. I'm not saying it was easy by any means but just that progress is being made :relieved:. The main thing to happen today was however was Liz leaving!! She's been an absolutely amazing coach and I'm sure she's also been an excellant team member to the staff. It's probably all going to temporarily fall apart with her :rofl:. 
+
+### Link(s) to work / Resources: ###
+
+![Screenshot 2023-04-19 135621](https://user-images.githubusercontent.com/94766229/236045637-12f385b0-7b86-427e-b2cf-dfb8bbae9da4.png)
+
+## Day 34 ##
+20th April 2023
+### Today's Progress: ###
+
+* It's thursday and you know what that means! Mindset day with Joe. Today we discussed teamwork and psychological safety. We made manifestos in teams and talked about what     means the most to us in a team and how we would overcome any disputes. 
+* We then had a recap on Agile methodology in preperation for our first project week and went over the principles and methods of agile
+* In the afternoon we were given self research tasks and also had a chance to catch up on any work we may have missed for various reasons. Our research topics were;
+  - Trello - https://trello.com/ (Explore with this tool in prep for next week)
+  - Scrum
+  - Kanban
+  - Extreme Programming
+  - Theme/initiative/Epics/User stories
+  - Product backlog
+  - Burn down charts
+  - MVP
+  - Sprints
+  - Standups/Retrospectives
+  - Agile estimation techiniques 
+  
+  ### Thoughts: ###
+  It was interesting (as usual) to see everyones opinions on what makes a good team during Joe's mindset talk. I can see how much this particular part of the bootcamp will     affect our future employments in a positive way. Im starting to get a good sense of how proffesional teams work now after this afternoons research tasks. I particularly       liked learning about trello and sprints and I found that SoC seems to embody a lot of the Extreme programming methods.
+  
+  ### Link(s) to work / Resources: ###
+  
+  Psychological safety.
+  
+  ![Screenshot 2023-04-20 103725](https://user-images.githubusercontent.com/94766229/236048896-1527d8a1-388e-445c-b69e-18f25a0bfba3.png)
+  
+  Agile
+  
+  ![Screenshot 2023-04-20 115352](https://user-images.githubusercontent.com/94766229/236048949-0acd68e6-b4ab-4f34-aac8-bb257f5a50b3.png)
+  
+## Day 35 ##
+21st April 2023
+### Today's Progress: ###
+
+Hackathon day!!!
+  
+  
+  
+
+  
+
+
+
+
+
+
+
+
 
 
 
