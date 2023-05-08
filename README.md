@@ -773,11 +773,101 @@ This week we were put in a team of 5 and given the challenge to build an app tha
   - A whole load of fun!
   - Final Presentation
   
-  ### Team Manifesto & Ethos ### 
+### Team Manifesto & Ethos ### 
   
-  
+We Started of by creating our team manifesto and ethos and straight off the bat we decided we'd use the week to cement what we've learned so far and we unanimously agreed there was no better way to do that than by having fun building a cool project. We decided not to carry on outside of course hours because people had other commitments and we wanted to be able to not only learn the code together but also practice all the teamwork and soft skills we've been taught so far :smile:.
+
+Our Manifesto
+
   ![image](https://user-images.githubusercontent.com/94766229/236868678-dd0521a3-02d7-4bce-af68-d3bb311ec3a8.png)
-  ![Uploading image.png…]()
+  
+Ethos
+
+![image](https://user-images.githubusercontent.com/94766229/236870012-51190ec5-751f-4e95-9dbd-1732be7123e4.png)
+
+Team
+
+![image](https://user-images.githubusercontent.com/94766229/236870105-00c2ca11-d5dc-4419-a5b0-8617615a0fc2.png)
+
+### Research ###
+We made a google form to carry out some initial research to see what the bootcampers struggled with the most. We completed the form between our team and then sent it out to all bootcampers current & previous via slack. We purposely kept the google form short so that more people would be likely to complete it. We got over 30 responses and the result was that bootcampers found found the lack of course specific resources/recap material to be the biggest paint point. 
+
+Based on this we decided to build an app that has School of Code approved resources, content and specific course material as well as quizzes and flashcards. The idea was to make a one stop revision platform!
+
+Problem Statement
+
+![image](https://user-images.githubusercontent.com/94766229/236871456-e59842de-ad5e-4974-8167-ad9713bbf2ed.png)
+
+User research
+
+![image](https://user-images.githubusercontent.com/94766229/236871611-3522f42e-8372-4ad3-9977-866848e6ea0f.png)
+
+### Ideation ###
+From here we went with the Disney Ideation method and came up with ideas from the perspective of a dreamer, realist and critic. We managed to refine the app plans down to a bare bones MVP during the critic stage and we decided on building a simple quiz app.
+
+![image](https://user-images.githubusercontent.com/94766229/236872143-5149112d-2e86-4dbe-b6f4-a95d654449f8.png)
+
+### Planning ###
+Once the concept was sorted out we created a Trello and planned out how we would allocate our time. It was decided we would use agile methodologies and would split into two teams to work on different parts of the project but would communicate regularly and switch over so that everybody gets to work on different parts of the app. We decided not to let anyone just concentrate on areas they find the easiest and to actively try to cement knowledge in the areas theyre struggling with.
+
+I had the idea of using a random number generator to allocate where people would work. It chose me as the first person to present our teams daily stand up! I was really happy this happened because i've never been the best presenter and I'm determined to get good at it! "Get comfortable being uncomfortable" is something I've embodied since Chris said it at the start of the course. 
+
+### Design ###
+We then created the User flow diagram and component tree and moved my team moved onto the wireframes and the other team went to create the colours & logo for the styling.
+
+User Flow
+
+![image](https://user-images.githubusercontent.com/94766229/236874200-4761e449-dc06-48f0-8217-3da0da9920c5.png)
+
+Wire Frames 
+
+![image](https://user-images.githubusercontent.com/94766229/236874272-39ec9ad4-4a39-41cb-9cd9-fbb7dfd7ef20.png)
+
+### Execution ###
+The coding itself and the design were being worked on simultaneously and we did have to cut back on even more features for our MVP. We quickly realised there just wasn't enough time to get everything done during the standard course hours. We may have gotten a little carried away with the Fun aspect :laughing:.
+
+I did get a chance to really understand React a lot better through the struggles of building the app. I also Learned about the React Router for changing pages but we didnt have time to set it all up properly so we kept the MVP to one page. 
+
+Quiz Return
+
+![image](https://user-images.githubusercontent.com/94766229/236876479-26b917d9-c6a4-4560-885d-4bbbf049eae5.png)
+
+Final App
+
+![image](https://user-images.githubusercontent.com/94766229/236876884-c602078e-1f85-450c-94fd-81934233a921.png)
+
+Quiz
+
+![image](https://user-images.githubusercontent.com/94766229/236876962-1cc64910-945f-4d54-8a1a-7e403bc31ca8.png)
+
+
+### Presentation ###
+
+Finally we had to create a presentation that was 10 minutes long and present it to a panel of industry experts. This is where we really got into it and made a presentation so awesome we struggled to cut it down to 10 minutes! :smile: The feedback we got at the end was that they really loved our teamwork and style and that they were glad we didnt just use the time as a race to build an app but as an oppurtunity to improve both the coding side and the soft skills!
+
+Key takeaways
+
+![image](https://user-images.githubusercontent.com/94766229/236878075-36cf6ca5-84d9-478d-816b-d4aabed82028.png)
+
+
+The cool Kids
+
+![image](https://user-images.githubusercontent.com/94766229/236877965-a15b7b5b-06e4-48b9-9543-d4dcacdb502b.png)
+
+
+### Thoughts ###
+
+What an absolutely amazing week! Our team got known throughout the cohort as the most fun and we learned so much while having a good time. There is many things we would have done differently and we had a lot of time at the end to discuss all these things but thats what the week was for! Next time around we'll be even better and by the time we set off into the real world of a developer we will be unstoppable!! :grin:
+
+
+
+
+
+
+
+
+
+ 
 
 
   
