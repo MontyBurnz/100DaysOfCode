@@ -750,6 +750,36 @@ So today was supposed to be Hackathon day but it's Eid so im off!
 
 # Eid Mubarak!!!!! :partying_face: #
 ## WOOOOPPP WOOOPPPPPPPPP!!! ##
+
+## Day 35 ##
+24th - 28th April 2023
+
+### Project Week! ###
+
+This week we were put in a team of 5 and given the challenge to build an app that improves the journey of SoC bootcampers.
+
+  The week consisted of;
+  - Creating a team manifesto & Ethos
+  - Carrying out research to find out what most bootcampers struggled with
+  - Creating problem statements and user personas
+  - Product research into educational websites and apps
+  - Disney ideation using Figjam to plan the app
+  - The project approach using, including tools and methodologies
+  - User flow diagram and component tree
+  - Low and High fidelity wireframes
+  - Selecting colours and styling using tools such as coolors (checking for accesibility)
+  - Daily standups and retros
+  - Outstanding teamwork and pair programming
+  - A whole load of fun!
+  - Final Presentation
+  
+  ### Team Manifesto & Ethos ### 
+  
+  
+  ![image](https://user-images.githubusercontent.com/94766229/236868678-dd0521a3-02d7-4bce-af68-d3bb311ec3a8.png)
+  ![Uploading image.png…]()
+
+
   
   
   
