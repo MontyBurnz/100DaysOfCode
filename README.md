@@ -751,7 +751,7 @@ So today was supposed to be Hackathon day but it's Eid so im off!
 # Eid Mubarak!!!!! :partying_face: #
 ## WOOOOPPP WOOOPPPPPPPPP!!! ##
 
-## Day 35 ##
+## Day's 35 - 39 ##
 24th - 28th April 2023
 
 ### Project Week! ###
@@ -858,6 +858,100 @@ The cool Kids
 ### Thoughts ###
 
 What an absolutely amazing week! Our team got known throughout the cohort as the most fun and we learned so much while having a good time. There is many things we would have done differently and we had a lot of time at the end to discuss all these things but thats what the week was for! Next time around we'll be even better and by the time we set off into the real world of a developer we will be unstoppable!! :grin:
+
+## Day 40 ##
+2nd May 2023
+### Today's Progress: ###
+
+* Today the day started off with codewars in our project teams from last week
+* We then went on to team retrospectives for the project week and built a new figjam to discuss what we should;
+  - Start doing
+  - Keep doing
+  - Stop doing
+  - Do more of
+  - Do less of
+  
+* Once we created our figjam we had to then present our thoughts from the week back to the group.
+* In the Afternoon we moved on to our learning audit. We duplicated the learning audit notion and give ourseleves scores on all the topics we have learned so far so that we could use it as a guide to recap. The notion contained all of the quizzes and workshops for everything we covered so far.
+
+### Thoughts ###
+It was super interesting to hear everyones thoughts about the week and I found our team was super honest and open. There was definitely a lot of lessons to be learned and there's always room for improvement no matter how well we did on our project :smile:. It was nice to have a chance to get together with the team again for one last day! I found the learning audit super helpful as now I have a clean one stop revision guide and I know exactly what im going to do going forward on my learning journey!
+
+### Link(s) to work / Resources: ###
+
+Learning audit
+
+![image](https://github.com/ShamillFazal/100DaysOfCode/assets/94766229/af5188af-597b-4bc6-bbdc-96ea32954b5d)
+
+## Day 41 ##
+3rd May 2023
+### Today's Progress: ###
+
+* We started with code wars in our new teams and I learned a cool method called `date.parse()` - The parse() method takes a date string (such as "2011-10-10T14:48:00") and returns the number of milliseconds since January 1, 1970, 00:00:00 UTC.
+* Today was also the first employability day and we got to meet all of the SoC partnerships team!
+* I created a LinkedIn and spiced up my github profile and we continuously swapped around in teams to connect with one another and help with each others profiles.
+* We were informed about the whole job search process and the help SoC provide and what they expect from us.
+* After lunch we started more revision based on our personal learning audits and I tried to recap on some old material on arrays
+* Had a little bash at leetcode for the first time. I definitely got shown who was boss (and it wasnt me) :laughing:
+* We were also introduced to codesandbox.
+
+### Thoughts ###
+What a great day!! Really enjoyed all the employability talks things and getting to know more members of the cohort. Now that we've had that little talk and started with out profiles everything seems like its piecing together really well :smile:. I'm going to have to allocate more time to being more active on social media thats for sure!
+
+### Link(s) to work / Resources: ###
+
+Employability course
+![Screenshot 2023-05-03 105419](https://github.com/ShamillFazal/100DaysOfCode/assets/94766229/e9409445-9813-49f4-b35e-b93d0189de40)
+
+'date.parse()`
+![image](https://github.com/ShamillFazal/100DaysOfCode/assets/94766229/0c96458d-0c1a-42f9-9e88-92849e64679f)
+
+## Day 42 ##
+4th May 2023
+### Today's Progress: ###
+
+* During my morning codewars I got more familiar with the ternary operator thanks to one of my brilliant team members! The ternary operator allows you to evaluate conditional expressions and can substitute for if statements in some cases. It allows you to write shorter and cleaner code (even on one line). Syntax `condition ? trueExpression : falseExpression`.
+* We resumed more employability work this time starting with Cv writing. We were shown various bootcamper CV's and given tips and tricks on how to create our own to stand out to future employers.
+* talked about the importance of networking
+* Practices more CSS wth flexbox froggy and css diner
+* In the afternoon I continued with my learning audit and focused on react with the codecademy react course.
+* I also had a little bash at frontend mentor to improve my css skills.
+
+### Thoughts ###
+Another really enjoyable day with lots of time to practice and solidify previously taught knowledge. I can see how this learning journey of mine is going to continue long after the course is over, there's so much to learn! :sweat_smile:
+
+### Link(s) to work / Resources: ###
+
+[CodeCademy React Course](https://www.codecademy.com/learn/react-101)
+
+## Day 43 ##
+5th May 2023
+### Today's Progress: ###
+Hackathon day!!!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
 
 
 
