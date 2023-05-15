@@ -980,19 +980,23 @@ There was definitely a lot to learn today and trying to absorb it all was quite 
 ### Link(s) to work / Resources: ###
 
 Codewars Kata 
+
 ![Screenshot 2023-05-15 224117](https://github.com/ShamillFazal/100DaysOfCode/assets/94766229/e4549598-bfe0-4e8b-8dc2-ad0967c14418)
 
 Creating JSON
+
 ![Screenshot 2023-05-09 115835](https://github.com/ShamillFazal/100DaysOfCode/assets/94766229/f9b38577-51b9-4823-9e6a-19181760db02)
 
 Parsing JSON
+
 ![Screenshot 2023-05-09 140333](https://github.com/ShamillFazal/100DaysOfCode/assets/94766229/7bc73eda-1ada-4081-9124-010a565963ef)
 
 UUIDV4 pros/cons
+
 ![Screenshot 2023-05-09 153743](https://github.com/ShamillFazal/100DaysOfCode/assets/94766229/381591eb-5033-4a61-92be-b57515fb871b)
 
-## Day 47 ##
-9th May 2023
+## Day 48 ##
+10th May 2023
 ### Today's Progress: ###
 
 
