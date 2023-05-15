@@ -911,7 +911,7 @@ Employability course
 ### Today's Progress: ###
 
 * During my morning codewars I got more familiar with the ternary operator thanks to one of my brilliant team members! The ternary operator allows you to evaluate conditional expressions and can substitute for if statements in some cases. It allows you to write shorter and cleaner code (even on one line). Syntax `condition ? trueExpression : falseExpression`.
-* We resumed more employability work this time starting with Cv writing. We were shown various bootcamper CV's and given tips and tricks on how to create our own to stand out to future employers.
+* We resumed more employability work this time starting with CV writing. We were shown various bootcamper CV's and given tips and tricks on how to create our own to stand out to future employers.
 * talked about the importance of networking
 * Practices more CSS wth flexbox froggy and css diner
 * In the afternoon I continued with my learning audit and focused on react with the codecademy react course.
@@ -928,6 +928,84 @@ Another really enjoyable day with lots of time to practice and solidify previous
 5th May 2023
 ### Today's Progress: ###
 Hackathon day!!!
+
+* For today's hackathon we had to decide between building an E-commerce or world flag application. The example layout was given to us and we had to recreate it and add functionality.
+* We chose to build the E-commerce site as it's an area we're all interested in and we figured it was slightly more difficult so we get a chance to solidify more react knowledge.
+* We also got a chance to show off our CSS skills which we'd been honing all week but we ended with relatively little time to get the app looking too fancy 😄
+* I got to practice pulling data from API's again and then filtering the data for our search bar which I found really useful.
+
+### Thoughts ###
+Today was a really cool day and I enjoyed working with both my team mates building the app! It's nice too see how things come together in applications and im contemplating building another E-commerce site in due course to practice my own skills. I know its going to be hard without team mates but thats how we learn 🙂.
+
+### Link(s) to work / Resources: ###
+
+Some code from app
+![image](https://github.com/ShamillFazal/100DaysOfCode/assets/94766229/11806faf-8fc3-4af2-a0ec-7b664b7c1744)
+
+
+Picture of main page
+![Screenshot 2023-05-15 181710](https://github.com/ShamillFazal/100DaysOfCode/assets/94766229/d4389677-8cb8-45b6-9371-42f1d02c1d81)
+
+## Day 46 ##
+8th May 2023
+### Today's Progress: ###
+* Today I studied a little more of the FCC 'JavaScript Algorithms and Data Structures' course and learned about the `hasOwnProperty()` method. The `hasOwnProperty()` method returns a boolean indicating whether the object has the specified property as its own property (as opposed to inheriting it). 
+* I've also spent a considerable amount of time updating this journal as I'd fallen behind quite a bit due to the workload and revision from the bootcamp itself.
+* Lastly I spent some time working on the basic layout and design of my CV and will try to get it complete in the coming days.
+
+### Thoughts ###
+Its a bank holiday extended weekend but I decided to get at least some work done to get myself back in the mood for the week ahead. It was nice to get a little time on FCC again as that is where my journey originally started 😄.
+
+### Link(s) to work / Resources: ###
+[JavaScript Algorithms and Data Structures Course](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures)
+
+## Day 47 ##
+9th May 2023
+### Today's Progress: ###
+* Today we started with a super interesting CodeWars kata that required looping through nested arrays and it did stump us for a while before we resorted to ChatGPT to give  us a pointer. 
+* After our codewars session we went on to spent the day learning about Node.JS. My key learning points were;
+  - Created in 2009 by Ryan Dahl
+  - Built using googles V8 engine
+  - Javascript runtime environment 
+  - Server-side JavaScript: Node.js enables JavaScript to be used for server-side programming. It brings JavaScript, traditionally associated with client-side scripting, to     the server, allowing developers to use a unified language for both front-end and back-end development.
+  - Scalability: Node.js is highly scalable due to its non-blocking I/O model. It can handle a large number of concurrent connections with minimal resource consumption,         making it suitable for building scalable network applications such as real-time web applications, chat applications, or streaming services.
+  - NPM (Node Package Manager): Node.js comes with NPM, a powerful package manager that allows developers to easily install, manage, and share reusable JavaScript modules.       The extensive range of packages available in the npm ecosystem simplifies development by providing ready-to-use libraries and tools.
+  - Cross-Platform: Node.js is a cross-platform runtime environment and runs on various operating systems such as Windows, macOS, and Linux. This allows developers to write     applications once and deploy them across different platforms.
+ * We got to practice creating and parsing JSON's useing `JSON.stringify()` & `JSON.prase`.
+ * We also to use uuidv4 to create unique ID's
+
+### Thoughts ###
+There was definitely a lot to learn today and trying to absorb it all was quite intense. We didnt get as much practice time as we usually do due to the amount that needed to be covered considering we missed a day for the bank holiday weekend. I really enjoyed creating unique ID's with uuidv4 (it was so cool)! 😃
+
+### Link(s) to work / Resources: ###
+
+Codewars Kata 
+![Screenshot 2023-05-15 224117](https://github.com/ShamillFazal/100DaysOfCode/assets/94766229/e4549598-bfe0-4e8b-8dc2-ad0967c14418)
+
+Creating JSON
+![Screenshot 2023-05-09 115835](https://github.com/ShamillFazal/100DaysOfCode/assets/94766229/f9b38577-51b9-4823-9e6a-19181760db02)
+
+Parsing JSON
+![Screenshot 2023-05-09 140333](https://github.com/ShamillFazal/100DaysOfCode/assets/94766229/7bc73eda-1ada-4081-9124-010a565963ef)
+
+UUIDV4 pros/cons
+![Screenshot 2023-05-09 153743](https://github.com/ShamillFazal/100DaysOfCode/assets/94766229/381591eb-5033-4a61-92be-b57515fb871b)
+
+## Day 47 ##
+9th May 2023
+### Today's Progress: ###
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
