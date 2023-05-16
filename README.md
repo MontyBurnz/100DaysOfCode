@@ -998,7 +998,100 @@ UUIDV4 pros/cons
 ## Day 48 ##
 10th May 2023
 ### Today's Progress: ###
-dfafasfas
+
+* I found this mornings codewars session really good as I got to practice the `map.array()` function with my team mates. I had forgotten how to use it and the kata required   the use of it to take in an array of integers and double the value of each one and return it in a new array.
+* I also had a little chat with my team mates about employability and got some good tips on how to set up my github & portfolio in order to best showcase my skills to future   employers. 
+* We then had Katie Hawcutt (SoC alumni) come in as a guest speaker and talked about her experience and how she got on since the course. It was great to hear that with no     real backend experience she managed to land a role and really enjoy it. She also talked about it being easy enough to learn Goland after the bootcamp due to the way SoC     teaches us how to learn.
+* After the talk we moved on to more rest api related study. We covered;
+  - IP addresses: Each device that connects to the Internet needs a unique identifying number with which to communicate, called an ‘IP address’. There are 2 versions of IP 
+    addresses, V4 and V6. V4 is 32bits long and V6 is 128bits long.
+  - Ports & Sockets
+  - Client-Server model: The client (user) sends the request and the Server sends back the response
+  - Domain names & DNS: The domain name system (DNS) is a naming database in which internet domain names are located and translated into Internet Protocol (IP) addresses.       The domain name system maps the name people use to locate a website to the IP address that a computer uses to locate that website.
+  - HTTP & HTTPS: HTTP is a protocol for communication between a client and a server on the web, used for accessing resources like web pages. HTTPS is a secure version of       HTTP that adds encryption to protect data during transmission, ensuring confidentiality and integrity. HTTPS is commonly used for secure transactions and safeguarding       sensitive information online.
+  - Popular HTTP methods: GET, POST, PUT or PATCH & DELETE
+  - HTTP status codes: HTTP response status codes indicate whether a specific HTTP request has been successfully completed. The first number of the code signifies the group     it belongs to. There are 5 groups in total. e.g. 400-499 would be a client side error and 500-599 would be a server side error.
+
+### Thoughts ###
+Really enjoyed the codewars and the talk from this morning 🙂. It crazy how good were getting at working in teams after such a shhort space of time. The rest of the day was very information heavy and I did find it hard to concentrate at times but I know its temporary and is just because of the sheer amount of information we need to cover.
+
+### Link(s) to work / Resources: ###
+
+Codewars Using the `array.map()` method.
+
+![Screenshot 2023-05-09 223148](https://github.com/ShamillFazal/100DaysOfCode/assets/94766229/6c5bb444-c4ba-4e29-b514-c04a0064adcd)
+
+IP Address 
+
+![Screenshot 2023-05-10 114640](https://github.com/ShamillFazal/100DaysOfCode/assets/94766229/b93ca6ff-e1c1-4e62-ba5e-08e7ab3bdee1)
+
+Popular HTTP methods
+
+![Screenshot 2023-05-10 120550](https://github.com/ShamillFazal/100DaysOfCode/assets/94766229/324491d5-3a0c-46f9-97ca-a3c0a8c0073e)
+
+Anatomy of a HTTP request
+
+![Screenshot 2023-05-10 121325](https://github.com/ShamillFazal/100DaysOfCode/assets/94766229/e719b589-6045-47d8-a21e-8d7fe989d7bb)
+
+## Day 49 ##
+11th May 2023
+### Today's Progress: ###
+* Today we sacrificed a little CodeWars time to go over console logging api requests to get a clearer picture of what is happening at every stage of the request.
+* I then got to practice using the `filter.array()` method which i was also a little rusty on but my team mate Roberto explained clearly 😄.
+* We then went on to cover Express.js which is a lightweight web application framework for Node.js. It makes it easy to create web applications and APIs with its routing       system, middleware support, and integration with other Node.js modules. 
+* Loz explained that middleware is like a chef's assistant is to a chef, the chef's assistant can do many things to help out the chef and middleware can do the same for our   requests. The `next()` callback function is used to pass control to the next middleware function in the chain.
+* We also talked about static files and how to use them using built in middleware `express.static`.
+* Guest speakers Nadeem and Elly came in from Talis and talked about Rest API's 
+
+### Thoughts ###
+Feeling super drained this week with all of the information about API's being taught in much more of a classroom style with less practice time. I know its because of all of the bank holidays our cohort is having so I can't really complain (who doesnt love a bank holiday weekend? 😆).
+
+### Link(s) to work / Resources: ###
+
+Custom Middleware
+
+![Screenshot 2023-05-11 134741](https://github.com/ShamillFazal/100DaysOfCode/assets/94766229/cf51d23a-563b-4577-8373-0a09f97b5600)
+
+Rest API's
+
+![Screenshot 2023-05-11 114826](https://github.com/ShamillFazal/100DaysOfCode/assets/94766229/73f8c910-0bbe-4451-b18c-422e6f020129)
+
+HTTP response codes
+
+![Screenshot 2023-05-11 115355](https://github.com/ShamillFazal/100DaysOfCode/assets/94766229/1ffba91f-3bfb-47ca-8078-6c9f1353c993)
+
+
+# Day 50 🥳 #
+12th May 2023
+## Half way point and Hackathon!!!##
+### Today's Progress: ###
+
+* Todays hackathon involved building a backend - no its not that kind of backend. Mine is already pretty large and all the squats at SoC would have sorted it out if it already wasnt 😆
+* We were given a recipes website that already had the basic html/css and javascript code but needed all of the backend code linked to it. We were also given requirements     for the CRUD routes including the path and the response format. 
+* In the recipes.js folder we were also given the skeleton for the functions themselves which we had to create and then link together.
+* We were also told to download ThunderPants (Thunder Client) to test our requests/responses.
+
+### Thoughts ###
+Really happy with the amount of work we got done! 😄 If we had more time we would have tried to get the `DELETE` functionality working but we settled for just getting the recipe removed from the webpage itself 🤫. Today marks the 50th day of my 100 days of code challenge wow!!! Feels like its been about a year (jokes!!)😆. The time has absolutely flown by and ive enjoyed every second of it. I am writing a lot of these entries days later and once I've caught up im going to make sure to keep on time with everything so I can keep each entry fresh and detailed. If anyone does read any of these I'm sorry if I've not been detailed enough the last couple weeks. Burnout is real but im back on track now 😄.
+
+### Link(s) to work / Resources: ###
+
+Requirements Table
+
+![Screenshot 2023-05-16 214616](https://github.com/ShamillFazal/100DaysOfCode/assets/94766229/bd1c41c0-4769-4f26-97e9-419ec82f7b7c)
+
+Some of our requests
+
+![image](https://github.com/ShamillFazal/100DaysOfCode/assets/94766229/909ebc6a-c81c-4735-879c-e293fba6e4f4)
+
+Corresponding functions
+
+![image](https://github.com/ShamillFazal/100DaysOfCode/assets/94766229/ee66fee7-162f-4b20-bd28-807f4c80d554)
+
+Main App Page
+![image](https://github.com/ShamillFazal/100DaysOfCode/assets/94766229/626114f6-7c27-4e38-8948-f0ac69a0c6ac)
+
+![Screenshot 2023-05-16 221234](https://github.com/ShamillFazal/100DaysOfCode/assets/94766229/0d21e441-edcd-4c49-af27-207afe6bbf44)
 
 
 
