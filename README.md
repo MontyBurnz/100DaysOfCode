@@ -1094,6 +1094,93 @@ Main App Page
 ![Screenshot 2023-05-16 221234](https://github.com/ShamillFazal/100DaysOfCode/assets/94766229/0d21e441-edcd-4c49-af27-207afe6bbf44)
 
 
+## Day 51 ##
+15th May 2023
+### Today's Progress: ###
+* Started off doing the recap tasks set over the weekend. The task involved creating API routes and was pretty much indentical to the routes my team made during the           hackathon so I refactored some of that code.
+* Then we did our usualy previous weeks team feedback and moved on to meet our new weekly teams.
+* We briefly talked about relation and non-relational databases. Relational databases store data in tables with rows and columns, enforcing a predefined structure known as a   schema. Non-relational databases store data in flexible, schema-less formats like key-value pairs, documents, or graphs.
+* We started learning about SQL (Structured Query Language). My key learning points were;
+  - SQL is a programming language for managing and manipulating relational databases.
+  - It allows you to query, insert, update, and delete data in tables.
+  - SQL commands include SELECT, INSERT, UPDATE, DELETE, CREATE, ALTER, and DROP.
+  - It supports joining tables, filtering data with WHERE, grouping with GROUP BY, and sorting with ORDER BY.
+  - SQL has data types for different kinds of values like numbers, strings, and dates.
+  - It enforces data integrity through constraints like primary keys and foreign keys.
+  - SQL is declarative, meaning you specify the desired result rather than how to achieve it.
+* We then went on to do some interactive learning via SQLbolt and SQL murder mystery. Between the two we covered the main syntax and learned how to search from relational     databases including things like joining tables, assigning primary & foreign keys, ordering and limiting results.
+
+### Thoughts ###
+I didnt think I'd enjoy backend and databases but I really enjoyed using SQL today! The interactive SQL murder mystery was so cool!! 😄 We solved the mystery and found the murderer and learned SQL in the process. If this coding thing doesnt work out maybe I should become a detective? 😆
+
+### Link(s) to work / Resources: ###
+
+[SQL Bolt](https://sqlbolt.com/)
+
+[SQL Murder Mystery](https://mystery.knightlab.com/walkthrough.html)
+
+Relational & Non-Relational Databases
+
+![Screenshot 2023-05-15 115734](https://github.com/ShamillFazal/100DaysOfCode/assets/94766229/3196b888-2114-49d6-beb1-f2289874f248)
+
+## Day 52 ##
+16th May 2023
+### Today's Progress: ###
+* Started off with codewars and learned how to use the `toString(2)` method to convert a number to binary. In this case the 2 in the brackets represent base 2.
+* We had a super interesting talk with Stuart Langridge who came in to talk about everything from knowing our self worth and questions we should be asking companies. He also   told us about marketing ourselves and networking and how we could go about doing so.
+* Then we went on to understanding database relationships and ERD diagrams and talking about primary and foreign keys. Primary keys: Unique identifier e.g customer ID in a     customer database. Foreign Keys: Links one table to another e.g. a table of orders with a customer id (primary key) can be used as a foreign key on another table.
+* We did some more interactive learning and I learned it was possible to concatenate columns in SQL which I found really cool and I also learned SQL has case statements       which aren't too different to the ones Im used to in JavaScript.
+* Finally we had a quick bash at drawing ERD's in LucidChart.
+
+### Thoughts ###
+The talk with Stuart was brilliant and I think the whole group could have listened to him talk forever 😆. He really emphasised the importance of knowing our worth and getting paid right but also that we need to market ourselves and get invovled in the community at every oppurtunity. Learning the little tricks with SQL like concatention was super cool too! Even the drawing ERD's was so much more fun than component trees in React which im still hiding from but 🤫.
+
+### Link(s) to work / Resources: ###
+
+[PostgreSQL Exercises](https://pgexercises.com/questions/joins/)
+
+## Day 53 ##
+17th May 2023
+### Today's Progress: ###
+* Today seemed a little more chilled out and we went over SQL a little more
+* We talked about SQL and the various databases like PostgreSQL each having their own slightly different features and syntax.
+* We used ElephantSQL to create a database and then connected to it via VScode after setting up dotenv. 
+* I learned about .env files used to keep sensitive data hidden e.g. the link for the database we'd setup.
+
+### Thoughts ###
+It was nice to see how SQL pieces together with everything else at the end of the day! There's a lot of pieces to learn as a full stack developer and sometimes I wonder how its possible people know so much! But hey, if other people can do it then why cant I? 😄
+
+### Link(s) to work / Resources: ###
+
+Setting up, Connected and querying the database.
+
+![image](https://github.com/ShamillFazal/100DaysOfCode/assets/94766229/a7e3f5ea-2551-4dc5-9a5b-70d711b06cc3)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
