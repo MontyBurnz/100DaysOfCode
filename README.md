@@ -1156,6 +1156,38 @@ Setting up, Connected and querying the database.
 
 ![image](https://github.com/ShamillFazal/100DaysOfCode/assets/94766229/a7e3f5ea-2551-4dc5-9a5b-70d711b06cc3)
 
+## Day 54 ##
+18th May 2023
+### Today's Progress: ###
+* Started off the day with a bit of LeetCode instead of the usual codewars. My two team mates this week are very logical thinkers so I wanted to see how they dealt with the   very first challenge I encountered on leetcode which I felt was a little difficult. 
+* We then went on to learn more about PG SQL and paramatised queries. The main purpose of using parametrized queries is to prevent SQL injection attacks. By separating the     SQL logic from the data, you can ensure that user input is treated as data and not as executable SQL code.
+* We had a guest speaker come in called Dileep Marway who had an absolutely impressive background and was such a lovely person! He talked to us about everything from           networking to how he mentors people/companies. He gave us several tips on what to ask future employers to see if they're the right match for us and very clearly showed       you dont have to look or act a certain way to be in the positions you want to be in!
+* I then learned about MVC structure. My key learning points were:
+  - Model: Represents the database schema and tables.
+  - View: Presents data to the user and handles user interactions.
+  - Controller: Handles user requests, interacts with the model, and updates the view.
+  - SQL Queries: Used to interact with the database (e.g., retrieving, inserting, updating, deleting data).
+  - Data Access Layer: Manages database interactions, executes SQL queries, and handles connections.
+  - Object-Relational Mapping (ORM): Maps database tables to object classes for easier interaction.
+  - Separation of Concerns: Ensures clear division of responsibilities between model, view, and controller. 
+
+### Thoughts ###
+Although I havent fully got the hang of it, I do like the seperation of concerns as it makes everything so much easier to understand. The talk with Diljeet was also great! SoC definitely has the best guest speakers 😄.
+
+### Link(s) to work / Resources: ###
+
+Paramatized query example
+
+![Screenshot 2023-05-18 104530](https://github.com/ShamillFazal/100DaysOfCode/assets/94766229/c6638c91-f143-4665-987c-892643a83cfa)
+
+Paramatized query (our code)
+![image](https://github.com/ShamillFazal/100DaysOfCode/assets/94766229/7c64e797-15b7-4e5d-a730-2e6ff7e93a59)
+
+
+
+
+
+
 
 
 
