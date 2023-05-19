@@ -1183,6 +1183,51 @@ Paramatized query example
 Paramatized query (our code)
 ![image](https://github.com/ShamillFazal/100DaysOfCode/assets/94766229/7c64e797-15b7-4e5d-a730-2e6ff7e93a59)
 
+## Day 55 ##
+19th May 2023
+### Today's Progress: ###
+* Did my first 6 Kyu codewars kata with the team today and knew I could solve it on my own too! My way would have contained a few more lines but I felt great knowing I could   do it myself too 😄 
+
+ > The eagle eyed amongst you may have noticed its a friday and I started with codewars. I hear the screams already, "Where is the HACKATHON?!!!". Unfortunately there is no    hackathon today but we did have some super special guests in all the way from CouchBase. We got to try out their brilliant database and learn a lot more about NoQL.
+
+* Couchbase had prepared some very detailed and easy to follow along tutorials and tasks for the day so we split up in teams of 5-6 and worked through them. My key learning   points from the day were:
+  - NoSQL stores data in schema-agnostic structures. Document databases, Key-value stores, Column-oriented databases, Graph databases.
+  - Built to change & adapt at scale.
+  - High throughput with low latency
+  - Lower cost storage
+  - Data can be duplicated which requires additional security checks.
+  - Applications need to adapt with evolving data structures.
+  - SQL scaling is vertical and requires a bigger machine (CPU &/or RAM) which can be expensive and involes downtime.
+  - NoSQL scaling can be done by adding more nodes (as many as you need) without any downtime which saves time, money and leaves room for future expansion.
+* We also learned a lot about the Couchbase database itself and how to use it. We setup the database/cluster, imported data and then connected through VScode to run queries. Then we   verified implementation using Postman.
+
+### Thoughts ###
+Several weeks ago I'd look at CodeWars and want to cry wondering why they're so hard. "What do you want from me?!" is what id often say out loud to my screen 😆. Well today I managed a rank 6 and I couldnt be happier! Also the Couchbase team came in and talked about a bunch of stuff... haha! jokes aside, I really enjoyed the day with Couchbase and learned a lot. I can tell they put some effort into making the presentation/tutorials and they were genuinely super helpful. Georgina and Asmaa both popped in to help when some of my team members were stuck and their passion for their work was really apparent!
+
+### Link(s) to work / Resources: ###
+
+NoSQL
+
+![image](https://github.com/ShamillFazal/100DaysOfCode/assets/94766229/835acee2-78e6-4e77-81f7-3ba015e7cab6)
+
+![image](https://github.com/ShamillFazal/100DaysOfCode/assets/94766229/e7547003-7244-4e04-8a4e-453d3303be3a)
+
+Scaling
+
+![Screenshot 2023-05-19 102307](https://github.com/ShamillFazal/100DaysOfCode/assets/94766229/0b7b1734-3944-4651-be7c-74994177c20f)
+
+Connect Function
+
+![image](https://github.com/ShamillFazal/100DaysOfCode/assets/94766229/ee9e6550-3d25-43f5-9771-a5eb30007b19)
+
+
+
+
+
+
+
+
+
 
 
 
