@@ -1220,8 +1220,40 @@ Connect Function
 
 ![image](https://github.com/ShamillFazal/100DaysOfCode/assets/94766229/ee9e6550-3d25-43f5-9771-a5eb30007b19)
 
+## Day 56 ##
+22nd May 2023
+### Today's Progress: ###
+* Talk with Nadeem and Elly about how Talis is run as a company. Many points covered including:
+  - How they plan sprints
+  - Tools and methods they use like Kanban and XP
+  - Retro's at the end of every sprint with the 4 L's format (Liked, Learned, Longed for, Lacked)
+  - How they use branching for github and always make sure that everything on the main branch is 100% releasable code
+  - Fully automated testing. All of their codebases must include a fully automated test suite
+  - Monitoring in production: 24/7 monitoring of products with an extra emphasis on initial launch of software
+  - Teamwork and psychological safety
+  - 10% of sprints allocated to personal development time for employees
+
+* We then went on to learn about authentication and authorisation and the differences between them.
+  - Authentication is a process that verifies that someone or something is who they say they are.
+  - Authorization is the security process that determines a user or service's level of access.
+ * We also discussed different types of authentication like cookies, session ID's and tokens.
+
+### Thoughts ###
+It's always an absolute pleasure when Nadeem comes in and I find I learn so much! Today was no different. It was good to see how companies like Talis operate and I was especially impressed with the 10% of sprint time allocated to personal development. I also enjoyed learning about authentication and authorization as my love of crypto and decentralisation has made me very much interested in both. Some of my favourite projects in the crypto space are to do with identity and anonymous authorization through Zero Knowledge Proof's.
+
+### Link(s) to work / Resources: ###
+
+Psychological Safety
+
+![Screenshot 2023-05-22 120711](https://github.com/ShamillFazal/100DaysOfCode/assets/94766229/84220ccc-7d9b-4497-9260-5112dd086d7c)
 
 
+[Authentication vs Authorization](https://www.youtube.com/watch?v=85BBfKo6bdo)
+ 
+![Screenshot 2023-05-22 135327](https://github.com/ShamillFazal/100DaysOfCode/assets/94766229/94655b04-33a9-43ad-874b-23f51dc3c758)
+
+[Cookies, Sessions & Tokens](https://www.youtube.com/watch?v=GhrvZ5nUWNg)
+![Screenshot 2023-05-22 141655](https://github.com/ShamillFazal/100DaysOfCode/assets/94766229/4fc6a4c1-bd57-426c-af3b-a0bcc543aea4)
 
 
 
