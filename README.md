@@ -1255,6 +1255,60 @@ Psychological Safety
 [Cookies, Sessions & Tokens](https://www.youtube.com/watch?v=GhrvZ5nUWNg)
 ![Screenshot 2023-05-22 141655](https://github.com/ShamillFazal/100DaysOfCode/assets/94766229/4fc6a4c1-bd57-426c-af3b-a0bcc543aea4)
 
+## Day 57 ##
+23rd May 2023
+### Today's Progress: ###
+* We started the day with the usual codewards and I learned about the `includes()` method which determines wether an array includes a certain value among it's entries and returns `true` or `false`
+* We then had a talk with Rik Marselis who is the Principal Quality Consultant at SogetiLabs. He talked about many things relating to quality, high performance IT delivery, DevOps and quality engineering.
+* For the rest of the day we carried on with the Supabase tasks and tried to get all our authorisations working so we could read/write onto the SQL database. 
+
+### Thoughts ###
+As we're approaching the end of the study part of the bootcamp, the instructions in the github repo's are getting less and less detailed and now we're having to read docs and navigate our own way to solutions to problems. It can get a little frustrating sometimes but im so glad we're getting to experience what it's going to be like in the real world! Navigating through docs is starting to get easier andI feel like I can do a lot more on my own now for sure!
+
+### Link(s) to work / Resources: ###
+
+DevOps
+
+![Screenshot 2023-05-23 100926](https://github.com/ShamillFazal/100DaysOfCode/assets/94766229/7d07754e-2046-4ec8-bc37-53872c9e5f57)
+
+Quality Engineering
+
+![Screenshot 2023-05-23 101510](https://github.com/ShamillFazal/100DaysOfCode/assets/94766229/c590eca9-c65a-499c-9456-947e492fb23a)
+
+## Day 58 ##
+24th May 2023
+* We skipped the mornings CodeWars session to carry on with some of the SupaBase tasks we were stuck on yesterday. We were having difficulty writing to the database but       realised it was just because we had forgot to setup the policies.
+* Then we had another guest speaker Dr Murray Hoggett (SoC alumni) Director of Engineering at Apian. What an incredible down to earth real talk that was! He talked about his   whole journey from bottcamp to Director and gave us so many tips for our own journeys!
+* After the talk was over we started our journey into TypeScript. TypeScript is a superset of JavaScript that adds static typing. This means that you can specify the types     of variables and expressions, which can help to prevent errors. TypeScript is also compiled to JavaScript, which makes it faster and more reliable than interpreted           languages like JavaScript.
+
+Here are some of the benefits of using TypeScript:
+
+  - Type safety: TypeScript's type system helps to prevent errors by ensuring that the types of variables and expressions are compatible.
+  - IntelliSense: TypeScript's IntelliSense feature provides code completion and type information, which can help to improve productivity.
+  - Code reuse: TypeScript can be used to create reusable components and libraries.
+  - Interoperability: TypeScript is fully interoperable with JavaScript, which means that TypeScript code can be used in JavaScript projects and vice versa.
+
+### Thoughts ###
+What an absolutely incredible talk that was with Dr Murray! Very real straight talk about how we can expect our journey to go after the bootcamp and his personal opinions on the kinds of things we should be doing to ensure our continued growth and success in the industry. TypeScript seemed pretty manageable so far and i hope to get proficient at using it very quickly! It hasn't broken my brain like React did anyway 😆.
+
+### Link(s) to work / Resources: ###
+
+[TypeScript Playground](https://www.typescriptlang.org/play)
+
+[TypeScript everyday types](https://www.typescriptlang.org/docs/handbook/2/everyday-types.html#the-primitives-string-number-and-boolean)
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
