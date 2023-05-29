@@ -1277,6 +1277,7 @@ Quality Engineering
 
 ## Day 58 ##
 24th May 2023
+### Today's Progress: ###
 * We skipped the mornings CodeWars session to carry on with some of the SupaBase tasks we were stuck on yesterday. We were having difficulty writing to the database but       realised it was just because we had forgot to setup the policies.
 * Then we had another guest speaker Dr Murray Hoggett (SoC alumni) Director of Engineering at Apian. What an incredible down to earth real talk that was! He talked about his   whole journey from bottcamp to Director and gave us so many tips for our own journeys!
 * After the talk was over we started our journey into TypeScript. TypeScript is a superset of JavaScript that adds static typing. This means that you can specify the types     of variables and expressions, which can help to prevent errors. TypeScript is also compiled to JavaScript, which makes it faster and more reliable than interpreted           languages like JavaScript.
@@ -1296,6 +1297,59 @@ What an absolutely incredible talk that was with Dr Murray! Very real straight t
 [TypeScript Playground](https://www.typescriptlang.org/play)
 
 [TypeScript everyday types](https://www.typescriptlang.org/docs/handbook/2/everyday-types.html#the-primitives-string-number-and-boolean)
+
+## Day 59 ##
+25th May 2023
+### Today's Progress: ###
+* Learned about the `parseint()` method during a CodeWars session. The `parseInt()` method parses a value as a string and returns the first integer.
+* Had another interesting talk with a former SoC boot camper Amelia Collins-Patel. She told us about her own struggles during the bootcamp and that she wasn't the most         confident coder in the bootcamp by any means but decided to tailor her own learning in a way that best suits her. She also warned us that the 5 week project can get a       little tense and people do fall out due to differing opinions but we should plan for that and create group a strong group manifesto.
+* We spent the rest of the day going through TypeScript with Arshi.
+
+### Thoughts ###
+This was kind of the last day of the study portion of the bootcamp! Tomorrow is the hackathon which marks the official end but we wont be getting anymore classroom style learning from here on out. The little warning from Amelia has got me hoping That my team and I really do get on for the next 5 weeks! I've not had a team so far that I didn't really enjoy being in so i hope it does continue that way 😄.
+
+## Day 60 ##
+25th May 2023
+### Today's Progress: ###
+HACKATHON DAY!!!
+
+Today's challenge was to build a weather checker app using React and TypeScript! We managed to get the initial code in the app done relatively quickly but ran into several   problems with typescript and then mainly with the API keys getting blocked. Because we had the app running, each time we made a change it was calling on the API and we       didnt realise 😆 By the end of the day I think we'd burned through 6 keys on 3 different email address (dont laugh! 😅). We did get the app working but ran out of time to style it properly and add additional features like search. We we're also a team member down so there was just the 2 of us today. 
+
+### Thoughts ###
+The week is officially over and that marks the end of 11 weeks of study!! I wasn't the best at React to begin with and adding typescript into the mix didn't help 😆. We managed to get it all working in the end and thats without doing the 'cheat' method of assigning type `:any` to make things easier. I would have loved to have more time to style the app and add more features but at least we got it to serve its primary purpose of checking the weather!
+
+### Link(s) to work / Resources: ###
+
+![image](https://github.com/ShamillFazal/100DaysOfCode/assets/94766229/a257a6d2-c3d8-4163-a147-b778e7c2acf2)
+
+
+![image](https://github.com/ShamillFazal/100DaysOfCode/assets/94766229/a1063d9e-0efd-4e58-bf3d-76e1ee15a703)
+
+App
+
+![image](https://github.com/ShamillFazal/100DaysOfCode/assets/94766229/0f3be9e5-90f2-4fdb-b9aa-6d71a938e89d)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
