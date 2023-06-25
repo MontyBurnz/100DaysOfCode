@@ -1330,6 +1330,34 @@ App
 ![image](https://github.com/ShamillFazal/100DaysOfCode/assets/94766229/0f3be9e5-90f2-4fdb-b9aa-6d71a938e89d)
 
 
+# Final 5 Week Project!!  #
+
+The day is finally here!! Everything we've learned during the past 11 weeks is going to be put to the test. It's time to build our full stack app from scratch! We have 5 weeks to plan and build a full stack app of our choice that solves a real world problem. I'm going to switch up the journalling a little and write weekly logs instead as most of my time will be spent with the project.
+
+## Week 1 | Day 61-66 ##
+
+* This first week was all about getting to know the team, creating a team manifesto for working practices & general planning/preperation.
+  The key points this week have been;
+
+  - Creating a team manifesto and methods of working to ensure all voices are heard, and we know how to handle disagreements & make decisions.
+  - Discussing what went right and what went wrong in our midterm project so we can implement ideas into our way of working.
+  - Choosing a team name (CTRL + ALT + DEFEAT)
+  - Brainstorming problems that we have and ideas for an app that would solve them
+  - Using dot notation to decide which app to go for
+  - Using disney Ideation to create features for our mvp app
+  - Carrying out user research
+  - Starting the creation of Lo-fi wireframes for the app.
+ 
+### Thought's ###
+It's been a super fun but tiring week! Who new planning could be so much effort? 😅 We decided to go with an app for travellers that want authentic local experiences and we used disney idetaion to create mvp features. By the end of the ideation I did think the app seemed a little on the large side for an mvp but the team seemed confident and I am 100% behing them 😄 The wireframes have been super hard to create with so many of us working on them simultaneously with different ideas but theyr'e starting to take shape.
+
+### Link(s) to work / Resources: ###
+
+  
+
+
+
+
 
 
 
