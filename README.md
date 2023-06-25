@@ -1353,6 +1353,28 @@ It's been a super fun but tiring week! Who new planning could be so much effort?
 
 ### Link(s) to work / Resources: ###
 
+App ideas dot notation
+
+![image](https://github.com/ShamillFazal/100DaysOfCode/assets/94766229/ef12be7b-c9f7-4f47-8ff1-468d0d8de054)
+
+
+Final choice of apps
+
+![image](https://github.com/ShamillFazal/100DaysOfCode/assets/94766229/1014f377-577d-43e0-b235-11a0745fab6f)
+
+Disney Ideation critic/MVP
+
+![image](https://github.com/ShamillFazal/100DaysOfCode/assets/94766229/0def2ffa-97be-4916-8c91-300aa857a67f)
+
+Some wireframes
+
+![image](https://github.com/ShamillFazal/100DaysOfCode/assets/94766229/3ab9be83-a312-49dc-b7e7-a0e482f2ee4f)
+
+
+
+
+
+
   
 
 
