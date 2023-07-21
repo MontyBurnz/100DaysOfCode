@@ -1371,6 +1371,55 @@ Some wireframes
 ![image](https://github.com/ShamillFazal/100DaysOfCode/assets/94766229/3ab9be83-a312-49dc-b7e7-a0e482f2ee4f)
 
 
+## Week 2 | Day 67-72 ##
+
+* This week has been full of more planning, preparing and designing and the key highlights of the week have been;
+  
+  - Scrapping all initial wireframes and starting from scratch 😅
+  - Continued refinement of MVP ideas
+  - Organizing of workload using tools like trello
+  - Setting up PM rotations structure
+  - Research and decisions into tech stack 
+  - Research into CI/CD & TDD
+  - Creating basic CSS page structure + first git merge!
+  - Creating component tree
+ 
+### Thought's ###
+Nobody expected to scrap all our wireframes and restart after a week but here we are 😆. We realised too many people working on wireframes simultaneously and without the same layouts was a recipe for disaster. We created a new template structure and tried to keep all styling uniform throughout the app. We also split into teams and researched different things like tech stack, accesibility & colour schemes, naming conventions and CI/CD. We ended up choosing the PERN stack as it's the one we were all most comfortable with. We also setup our trello board and started creating our first tickets which involved creating the css structure for our pages. Towards the end of the week everyone was sick of Figma and I decided to give it one last push by myself on the weekend the make sure everything was uniform on the designs 😄.
+
+### Link(s) to work / Resources: ###
+
+Some Hi-Fi designs.
+
+![image](https://github.com/ShamillFazal/100DaysOfCode/assets/94766229/e95b26d9-e344-46f2-bee1-071ec67df68c)
+
+Component Tree
+
+![image](https://github.com/ShamillFazal/100DaysOfCode/assets/94766229/07349427-71a8-4f0c-9af3-22537eea4f31)
+
+Tech Stack
+
+![image](https://github.com/ShamillFazal/100DaysOfCode/assets/94766229/05ab8d02-f2bc-445f-a6d7-22b7ec37ef70)
+
+CSS Structure
+
+![image](https://github.com/ShamillFazal/100DaysOfCode/assets/94766229/83900831-5da1-4426-8bfa-723f3adfdd45)
+
+First merge complete 😄
+
+![image](https://github.com/ShamillFazal/100DaysOfCode/assets/94766229/6d4107f5-49a9-441a-856b-c2db3d753990)
+
+
+## Week 3 | Day 72-77 ##
+
+
+
+
+
+
+
+
+
 
 
 
