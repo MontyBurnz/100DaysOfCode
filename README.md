@@ -1449,9 +1449,26 @@ What an absolutely incredible (and stressful 😆) few weeks it was! So many bra
 
 App walkthrough video
 
-![image](https://youtu.be/FP6sUptdebc)
-
 [![Watch the video](https://img.youtube.com/vi/FP6sUptdebc/default.jpg)](https://youtu.be/FP6sUptdebc)
+
+## Day 88-90 ##
+
+### DEMO DAY!!! ###
+
+These days were allocated to preperation for the demo day and the day itself 😄 In total we had 8 presentations lined up for the day in our little kumospace rooms which are super cool! We had seperate areas for our presentation, app display, and youtube video link presentation for those that just wandered into the room. Unfortunately 2 of our scheduled partners werent able to make it so we only had 6 presentations but the ones that did make it were brilliant! They got to ask us about our projects and we got to ask them about the tech stacks their companies use and how to best move forward with out learning 😁
+
+### Thought's ###
+This marks the end of my 16 week bootcamp journey!!! What an incredible experience it was. I could sit here and write 100's of lines about my experience but it's all journalled above 😆 I will insert my linkedin post marking the moment though.
+
+![image](https://github.com/ShamillFazal/100DaysOfCode/assets/94766229/b4db4231-79a2-42a4-907b-fe41728a4308)
+
+## POST COURSE!! ##
+
+
+
+
+
+
 
 
 
