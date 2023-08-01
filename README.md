@@ -1451,6 +1451,8 @@ App walkthrough video
 
 ![image](https://youtu.be/FP6sUptdebc)
 
+[![Watch the video](https://img.youtube.com/vi/FP6sUptdebc/default.jpg)](https://youtu.be/FP6sUptdebc)
+
 
 
 
