@@ -1410,7 +1410,56 @@ First merge complete 😄
 ![image](https://github.com/ShamillFazal/100DaysOfCode/assets/94766229/6d4107f5-49a9-441a-856b-c2db3d753990)
 
 
-## Week 3 | Day 72-77 ##
+## Week 3-5 | Day 72-87 ##
+
+### THE BUILD ###
+
+I decided to group this part of the project together as it's all related to the build of the app 😄.
+
+During this 3 week build phase we managed to get so much accomplished! Key points;
+
+* Created the CSS for all of the pages - This was a lot harder than we initially thought and it was something that continued up until the very last day! I realised quite 
+  early on that we should have thought about using a framework to maintain uniformity and responsive across the app. We initially designed the app as a mobile first web 
+  based app but realised it didnt scale up very well and then spent a LONGGGGGG time trying to rectify it all 😆. I personally learned a great deal from this experience 
+  and improved so much because of it!
+
+* Created functionality for our MVP pages - As we were working agile, we had to scrap more functionality than the team expected. I was of the opinion that this would be the   case but theres nothing wrong with ambition! 😄. We managed to get a great deal of functionality incorporated including;
+    - Login/signup page
+    - Main city search
+    - A filter and a search for the guides so that we could for example, search for "burger" in the guides and then filter by price.
+    - Guide page with navlinks that change the text displayed in the container.
+    - Google maps embedded location.
+    - User profile
+ 
+* Created fully custom database and backend api - All of our guide info is pulled from our database (mongoDB) and displayed onto the guide pages. When we finally got this 
+  working it was definitely my favourite part of the whole experience!😄 Seeing those high quality (unsplash) images being pulled into the guides just made the app look so 
+  much more proffesional. Using Unsplash was of course my idea 😁.
+
+* Got all of the hosting sorted - We used Atlas to host the database, Render for the backend & Netlify for the front end. Combining all these aspects together was something 
+  we hadn't needed to do on the course so it was great to learn how it all worked together! As I was the one who created the atlas account, I spent a lot of time on there 
+  and got a true appreciation for how powerful of a tool it is!
+
+* More stand ups, presentations & retros! - So much experience gained from those! I was never the best at public speaking but got 100x better through the course and 
+  definitely within the last few weeks 📽️.
+
+### Thought's ###
+What an absolutely incredible (and stressful 😆) few weeks it was! So many brains broken but equally so much knowledge gained 🧠. The team spirit and fun we had was amazing! so much laughter and great moments. 
+
+### Link(s) to work / Resources: ###
+
+App walkthrough video
+
+![image](https://youtu.be/FP6sUptdebc)
+
+
+
+
+
+
+
+
+
+
 
 
 
