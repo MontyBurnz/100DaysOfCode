@@ -1464,6 +1464,31 @@ This marks the end of my 16 week bootcamp journey!!! What an incredible experien
 
 ## POST COURSE!! ##
 
+## Days 91-100 ##
+
+After taking a short (well deserved 😁) rest after the 4 months of intensive learning I got straight back into action. Here's what I've been up to;
+
+  * Visited my first tech event (MCR DevCon) - What an absolutely amazing experience this was! It was great top be able to visit the first MCR DevCon and meet so many cool      people. The guest speakers were amazing, as was the food 😋. There was an interesting talk about neurodiversity in tech and a brilliant talk by Kelsey Hightower            (google) in which he shared many great ideas about how to become more valuable to your employer.
+    
+  * Continued practicing CodeWars - I'm getting much better now! 😄
+
+  * Brushed up on TypeScript - Practiced my TS by Building a couch surfing app.
+
+  * Many employability sessions with the School of Code.
+
+  * JOB APPLICATIONS (This is in capitals because theres so many 😆)
+
+  * Several interviews & meetups for networking.
+
+  * Currently trying to get my MongoDB certification from MongoDB university 😃
+    
+# Andddd thats a wrap guys!!! #
+
+I did bundle a lot of stuff up at the end there but I got so busy with the project week & then post course study + irl work it was hard to keep up. I did journal on notion and then summarise everything for this journal. My 100 day journey has been amazing and i hope theres 1000's more days to come 😁
+
+(and yes im still taking cold showers. Yes, that's important enough to mention 😆)
+
+
 
 
 
